@@ -1,27 +1,51 @@
 [
   {
+    "full_name": "tsoding/olive.c",
+    "stargazers_count": 673,
+    "open_issues_count": 5,
+    "forks_count": 21
+  },
+  {
+    "full_name": "poteto/hiring-without-whiteboards",
+    "stargazers_count": 32081,
+    "open_issues_count": 37,
+    "forks_count": 2809
+  },
+  {
+    "full_name": "linearmouse/linearmouse",
+    "stargazers_count": 1285,
+    "open_issues_count": 17,
+    "forks_count": 17
+  },
+  {
+    "full_name": "mizrael/Blazorex",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
     "full_name": "Axarva/dotfiles-2.0",
-    "stargazers_count": 1311,
-    "open_issues_count": 9,
+    "stargazers_count": 1312,
+    "open_issues_count": 10,
     "forks_count": 145
   },
   {
     "full_name": "CommunityToolkit/Maui",
-    "stargazers_count": 904,
-    "open_issues_count": 64,
-    "forks_count": 116
+    "stargazers_count": 912,
+    "open_issues_count": 65,
+    "forks_count": 117
   },
   {
     "full_name": "jsuarezruiz/awesome-dotnet-maui",
-    "stargazers_count": 515,
+    "stargazers_count": 525,
     "open_issues_count": 1,
-    "forks_count": 46
+    "forks_count": 48
   },
   {
     "full_name": "philc/vimium",
-    "stargazers_count": 18675,
-    "open_issues_count": 1039,
-    "forks_count": 2247
+    "stargazers_count": 18691,
+    "open_issues_count": 1040,
+    "forks_count": 2249
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
@@ -31,9 +55,9 @@
   },
   {
     "full_name": "MyOwnClone/quake_watch",
-    "stargazers_count": 688,
+    "stargazers_count": 694,
     "open_issues_count": 2,
-    "forks_count": 21
+    "forks_count": 24
   },
   {
     "full_name": "TheSimpleTeam/thesimpleteam.github.io",
@@ -43,13 +67,13 @@
   },
   {
     "full_name": "gnachman/iTerm2",
-    "stargazers_count": 12747,
+    "stargazers_count": 12753,
     "open_issues_count": 41,
-    "forks_count": 1120
+    "forks_count": 1119
   },
   {
     "full_name": "edluffy/hologram.nvim",
-    "stargazers_count": 484,
+    "stargazers_count": 486,
     "open_issues_count": 5,
     "forks_count": 15
   },
@@ -61,21 +85,21 @@
   },
   {
     "full_name": "znck/grammarly",
-    "stargazers_count": 1270,
+    "stargazers_count": 1273,
     "open_issues_count": 30,
     "forks_count": 83
   },
   {
     "full_name": "wesdoyle/design-patterns-explained-with-food",
-    "stargazers_count": 2287,
+    "stargazers_count": 2292,
     "open_issues_count": 0,
     "forks_count": 150
   },
   {
     "full_name": "ikrima/gamedevguide",
-    "stargazers_count": 430,
+    "stargazers_count": 432,
     "open_issues_count": 0,
-    "forks_count": 73
+    "forks_count": 74
   },
   {
     "full_name": "Southclaws/rst",
@@ -85,25 +109,25 @@
   },
   {
     "full_name": "brminnick/AsyncAwaitBestPractices",
-    "stargazers_count": 1067,
+    "stargazers_count": 1068,
     "open_issues_count": 0,
     "forks_count": 124
   },
   {
     "full_name": "levouh/tint.nvim",
-    "stargazers_count": 139,
+    "stargazers_count": 140,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "windwp/nvim-ts-autotag",
-    "stargazers_count": 630,
+    "stargazers_count": 634,
     "open_issues_count": 11,
     "forks_count": 18
   },
   {
     "full_name": "filipdutescu/renamer.nvim",
-    "stargazers_count": 220,
+    "stargazers_count": 221,
     "open_issues_count": 0,
     "forks_count": 8
   },
@@ -121,13 +145,13 @@
   },
   {
     "full_name": "dodyg/practical-aspnetcore",
-    "stargazers_count": 7040,
+    "stargazers_count": 7052,
     "open_issues_count": 177,
-    "forks_count": 929
+    "forks_count": 932
   },
   {
     "full_name": "unlight/tailwind-components",
-    "stargazers_count": 931,
+    "stargazers_count": 935,
     "open_issues_count": 0,
     "forks_count": 124
   },
@@ -146,7 +170,7 @@
   {
     "full_name": "bryanedds/Nu",
     "stargazers_count": 846,
-    "open_issues_count": 46,
+    "open_issues_count": 47,
     "forks_count": 99
   },
   {
@@ -154,29 +178,5 @@
     "stargazers_count": 4,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "phaazon/mind.nvim",
-    "stargazers_count": 319,
-    "open_issues_count": 10,
-    "forks_count": 16
-  },
-  {
-    "full_name": "hyprwm/Hyprland",
-    "stargazers_count": 2886,
-    "open_issues_count": 59,
-    "forks_count": 102
-  },
-  {
-    "full_name": "flameshot-org/flameshot",
-    "stargazers_count": 18785,
-    "open_issues_count": 339,
-    "forks_count": 1179
-  },
-  {
-    "full_name": "emmet-jones/New-SA-MP-callbacks",
-    "stargazers_count": 32,
-    "open_issues_count": 4,
-    "forks_count": 23
   }
 ]

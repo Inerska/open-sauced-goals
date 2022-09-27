@@ -1,63 +1,105 @@
 [
   {
+    "full_name": "jubnzv/virtual-types.nvim",
+    "stargazers_count": 190,
+    "open_issues_count": 2,
+    "forks_count": 4
+  },
+  {
+    "full_name": "ArobaseSC/Cipher",
+    "stargazers_count": 5,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "karimcambridge/samp-vehiclemodeldata",
+    "stargazers_count": 6,
+    "open_issues_count": 0,
+    "forks_count": 3
+  },
+  {
+    "full_name": "miversen33/import.nvim",
+    "stargazers_count": 127,
+    "open_issues_count": 4,
+    "forks_count": 0
+  },
+  {
+    "full_name": "KrustyKoyle/files.sa-mp.com-Archive",
+    "stargazers_count": 37,
+    "open_issues_count": 0,
+    "forks_count": 10
+  },
+  {
+    "full_name": "AvaloniaUI/Live.Avalonia",
+    "stargazers_count": 201,
+    "open_issues_count": 2,
+    "forks_count": 11
+  },
+  {
+    "full_name": "actions/download-artifact",
+    "stargazers_count": 725,
+    "open_issues_count": 49,
+    "forks_count": 263
+  },
+  {
     "full_name": "tsoding/olive.c",
-    "stargazers_count": 673,
-    "open_issues_count": 5,
-    "forks_count": 21
+    "stargazers_count": 804,
+    "open_issues_count": 7,
+    "forks_count": 28
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 32081,
-    "open_issues_count": 37,
-    "forks_count": 2809
+    "stargazers_count": 32141,
+    "open_issues_count": 39,
+    "forks_count": 2814
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 1285,
-    "open_issues_count": 17,
-    "forks_count": 17
+    "stargazers_count": 1294,
+    "open_issues_count": 19,
+    "forks_count": 16
   },
   {
     "full_name": "mizrael/Blazorex",
-    "stargazers_count": 6,
+    "stargazers_count": 7,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "Axarva/dotfiles-2.0",
-    "stargazers_count": 1312,
+    "stargazers_count": 1317,
     "open_issues_count": 10,
-    "forks_count": 145
+    "forks_count": 147
   },
   {
     "full_name": "CommunityToolkit/Maui",
-    "stargazers_count": 912,
-    "open_issues_count": 65,
-    "forks_count": 117
+    "stargazers_count": 921,
+    "open_issues_count": 66,
+    "forks_count": 118
   },
   {
     "full_name": "jsuarezruiz/awesome-dotnet-maui",
-    "stargazers_count": 525,
+    "stargazers_count": 537,
     "open_issues_count": 1,
-    "forks_count": 48
+    "forks_count": 49
   },
   {
     "full_name": "philc/vimium",
-    "stargazers_count": 18691,
-    "open_issues_count": 1040,
-    "forks_count": 2249
+    "stargazers_count": 18712,
+    "open_issues_count": 1041,
+    "forks_count": 2254
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 206,
+    "stargazers_count": 207,
     "open_issues_count": 3,
     "forks_count": 12
   },
   {
     "full_name": "MyOwnClone/quake_watch",
-    "stargazers_count": 694,
+    "stargazers_count": 703,
     "open_issues_count": 2,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "TheSimpleTeam/thesimpleteam.github.io",
@@ -67,33 +109,33 @@
   },
   {
     "full_name": "gnachman/iTerm2",
-    "stargazers_count": 12753,
+    "stargazers_count": 12763,
     "open_issues_count": 41,
-    "forks_count": 1119
+    "forks_count": 1121
   },
   {
     "full_name": "edluffy/hologram.nvim",
-    "stargazers_count": 486,
-    "open_issues_count": 5,
+    "stargazers_count": 492,
+    "open_issues_count": 7,
     "forks_count": 15
   },
   {
     "full_name": "lewis6991/hover.nvim",
-    "stargazers_count": 100,
+    "stargazers_count": 103,
     "open_issues_count": 4,
     "forks_count": 6
   },
   {
     "full_name": "znck/grammarly",
-    "stargazers_count": 1273,
-    "open_issues_count": 30,
+    "stargazers_count": 1276,
+    "open_issues_count": 31,
     "forks_count": 83
   },
   {
     "full_name": "wesdoyle/design-patterns-explained-with-food",
-    "stargazers_count": 2292,
+    "stargazers_count": 2293,
     "open_issues_count": 0,
-    "forks_count": 150
+    "forks_count": 151
   },
   {
     "full_name": "ikrima/gamedevguide",
@@ -109,20 +151,20 @@
   },
   {
     "full_name": "brminnick/AsyncAwaitBestPractices",
-    "stargazers_count": 1068,
+    "stargazers_count": 1069,
     "open_issues_count": 0,
     "forks_count": 124
   },
   {
     "full_name": "levouh/tint.nvim",
-    "stargazers_count": 140,
+    "stargazers_count": 141,
     "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "windwp/nvim-ts-autotag",
-    "stargazers_count": 634,
-    "open_issues_count": 11,
+    "stargazers_count": 637,
+    "open_issues_count": 10,
     "forks_count": 18
   },
   {
@@ -134,49 +176,7 @@
   {
     "full_name": "vigoux/notifier.nvim",
     "stargazers_count": 73,
-    "open_issues_count": 0,
-    "forks_count": 2
-  },
-  {
-    "full_name": "Jmaharman/fsharp-a-beginners-guide",
-    "stargazers_count": 45,
-    "open_issues_count": 0,
-    "forks_count": 4
-  },
-  {
-    "full_name": "dodyg/practical-aspnetcore",
-    "stargazers_count": 7052,
-    "open_issues_count": 177,
-    "forks_count": 932
-  },
-  {
-    "full_name": "unlight/tailwind-components",
-    "stargazers_count": 935,
-    "open_issues_count": 0,
-    "forks_count": 124
-  },
-  {
-    "full_name": "efcore/EFCore.FSharp",
-    "stargazers_count": 193,
-    "open_issues_count": 14,
-    "forks_count": 20
-  },
-  {
-    "full_name": "jbtule/OOP-Patterns-in-FSharp",
-    "stargazers_count": 27,
-    "open_issues_count": 1,
-    "forks_count": 1
-  },
-  {
-    "full_name": "bryanedds/Nu",
-    "stargazers_count": 846,
-    "open_issues_count": 47,
-    "forks_count": 99
-  },
-  {
-    "full_name": "MichelGrolet/cours-info",
-    "stargazers_count": 4,
-    "open_issues_count": 0,
-    "forks_count": 1
+    "open_issues_count": 2,
+    "forks_count": 3
   }
 ]

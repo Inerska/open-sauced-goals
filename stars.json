@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "ArobaseSC/Abaque",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "jubnzv/virtual-types.nvim",
     "stargazers_count": 190,
     "open_issues_count": 2,
@@ -19,7 +25,7 @@
   },
   {
     "full_name": "miversen33/import.nvim",
-    "stargazers_count": 127,
+    "stargazers_count": 131,
     "open_issues_count": 4,
     "forks_count": 0
   },
@@ -31,37 +37,37 @@
   },
   {
     "full_name": "AvaloniaUI/Live.Avalonia",
-    "stargazers_count": 201,
+    "stargazers_count": 202,
     "open_issues_count": 2,
     "forks_count": 11
   },
   {
     "full_name": "actions/download-artifact",
-    "stargazers_count": 725,
+    "stargazers_count": 727,
     "open_issues_count": 49,
-    "forks_count": 263
+    "forks_count": 264
   },
   {
     "full_name": "tsoding/olive.c",
-    "stargazers_count": 804,
+    "stargazers_count": 825,
     "open_issues_count": 7,
     "forks_count": 28
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 32141,
-    "open_issues_count": 39,
-    "forks_count": 2814
+    "stargazers_count": 32188,
+    "open_issues_count": 21,
+    "forks_count": 2819
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 1294,
-    "open_issues_count": 19,
+    "stargazers_count": 1358,
+    "open_issues_count": 18,
     "forks_count": 16
   },
   {
     "full_name": "mizrael/Blazorex",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 2
   },
@@ -73,31 +79,31 @@
   },
   {
     "full_name": "CommunityToolkit/Maui",
-    "stargazers_count": 921,
-    "open_issues_count": 66,
-    "forks_count": 118
+    "stargazers_count": 933,
+    "open_issues_count": 65,
+    "forks_count": 120
   },
   {
     "full_name": "jsuarezruiz/awesome-dotnet-maui",
-    "stargazers_count": 537,
+    "stargazers_count": 551,
     "open_issues_count": 1,
     "forks_count": 49
   },
   {
     "full_name": "philc/vimium",
-    "stargazers_count": 18712,
-    "open_issues_count": 1041,
-    "forks_count": 2254
+    "stargazers_count": 18724,
+    "open_issues_count": 1043,
+    "forks_count": 2259
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 207,
+    "stargazers_count": 208,
     "open_issues_count": 3,
-    "forks_count": 12
+    "forks_count": 14
   },
   {
     "full_name": "MyOwnClone/quake_watch",
-    "stargazers_count": 703,
+    "stargazers_count": 708,
     "open_issues_count": 2,
     "forks_count": 25
   },
@@ -109,25 +115,25 @@
   },
   {
     "full_name": "gnachman/iTerm2",
-    "stargazers_count": 12763,
+    "stargazers_count": 12780,
     "open_issues_count": 41,
-    "forks_count": 1121
+    "forks_count": 1122
   },
   {
     "full_name": "edluffy/hologram.nvim",
-    "stargazers_count": 492,
-    "open_issues_count": 7,
+    "stargazers_count": 495,
+    "open_issues_count": 8,
     "forks_count": 15
   },
   {
     "full_name": "lewis6991/hover.nvim",
-    "stargazers_count": 103,
+    "stargazers_count": 104,
     "open_issues_count": 4,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "znck/grammarly",
-    "stargazers_count": 1276,
+    "stargazers_count": 1277,
     "open_issues_count": 31,
     "forks_count": 83
   },
@@ -135,11 +141,11 @@
     "full_name": "wesdoyle/design-patterns-explained-with-food",
     "stargazers_count": 2293,
     "open_issues_count": 0,
-    "forks_count": 151
+    "forks_count": 152
   },
   {
     "full_name": "ikrima/gamedevguide",
-    "stargazers_count": 432,
+    "stargazers_count": 436,
     "open_issues_count": 0,
     "forks_count": 74
   },
@@ -151,7 +157,7 @@
   },
   {
     "full_name": "brminnick/AsyncAwaitBestPractices",
-    "stargazers_count": 1069,
+    "stargazers_count": 1070,
     "open_issues_count": 0,
     "forks_count": 124
   },
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "windwp/nvim-ts-autotag",
-    "stargazers_count": 637,
-    "open_issues_count": 10,
-    "forks_count": 18
+    "stargazers_count": 641,
+    "open_issues_count": 9,
+    "forks_count": 17
   },
   {
     "full_name": "filipdutescu/renamer.nvim",
-    "stargazers_count": 221,
+    "stargazers_count": 223,
     "open_issues_count": 0,
     "forks_count": 8
-  },
-  {
-    "full_name": "vigoux/notifier.nvim",
-    "stargazers_count": 73,
-    "open_issues_count": 2,
-    "forks_count": 3
   }
 ]

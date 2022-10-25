@@ -1,25 +1,31 @@
 [
   {
+    "full_name": "Sedeniono/tiny-optional",
+    "stargazers_count": 46,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "glacambre/firenvim",
-    "stargazers_count": 3102,
+    "stargazers_count": 3105,
     "open_issues_count": 67,
     "forks_count": 111
   },
   {
     "full_name": "ggandor/leap.nvim",
-    "stargazers_count": 1862,
+    "stargazers_count": 1971,
     "open_issues_count": 11,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "microsoft/DevSkim",
-    "stargazers_count": 746,
+    "stargazers_count": 748,
     "open_issues_count": 38,
     "forks_count": 100
   },
   {
     "full_name": "andrewferrier/textobj-diagnostic.nvim",
-    "stargazers_count": 82,
+    "stargazers_count": 83,
     "open_issues_count": 2,
     "forks_count": 3
   },
@@ -37,7 +43,7 @@
   },
   {
     "full_name": "jubnzv/virtual-types.nvim",
-    "stargazers_count": 194,
+    "stargazers_count": 196,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -55,7 +61,7 @@
   },
   {
     "full_name": "miversen33/import.nvim",
-    "stargazers_count": 147,
+    "stargazers_count": 151,
     "open_issues_count": 4,
     "forks_count": 0
   },
@@ -67,73 +73,73 @@
   },
   {
     "full_name": "AvaloniaUI/Live.Avalonia",
-    "stargazers_count": 210,
+    "stargazers_count": 211,
     "open_issues_count": 4,
-    "forks_count": 11
+    "forks_count": 10
   },
   {
     "full_name": "actions/download-artifact",
-    "stargazers_count": 750,
-    "open_issues_count": 54,
-    "forks_count": 275
+    "stargazers_count": 755,
+    "open_issues_count": 53,
+    "forks_count": 278
   },
   {
     "full_name": "tsoding/olive.c",
-    "stargazers_count": 868,
-    "open_issues_count": 9,
-    "forks_count": 36
+    "stargazers_count": 885,
+    "open_issues_count": 12,
+    "forks_count": 38
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 32458,
-    "open_issues_count": 21,
-    "forks_count": 2840
+    "stargazers_count": 32617,
+    "open_issues_count": 23,
+    "forks_count": 2846
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 1400,
-    "open_issues_count": 14,
+    "stargazers_count": 1419,
+    "open_issues_count": 16,
     "forks_count": 17
   },
   {
     "full_name": "mizrael/Blazorex",
-    "stargazers_count": 11,
+    "stargazers_count": 12,
     "open_issues_count": 0,
     "forks_count": 2
   },
   {
     "full_name": "Axarva/dotfiles-2.0",
-    "stargazers_count": 1347,
-    "open_issues_count": 10,
+    "stargazers_count": 1350,
+    "open_issues_count": 9,
     "forks_count": 149
   },
   {
     "full_name": "CommunityToolkit/Maui",
-    "stargazers_count": 1010,
-    "open_issues_count": 68,
-    "forks_count": 134
+    "stargazers_count": 1028,
+    "open_issues_count": 70,
+    "forks_count": 139
   },
   {
     "full_name": "jsuarezruiz/awesome-dotnet-maui",
-    "stargazers_count": 605,
+    "stargazers_count": 617,
     "open_issues_count": 4,
     "forks_count": 59
   },
   {
     "full_name": "philc/vimium",
-    "stargazers_count": 18842,
-    "open_issues_count": 1038,
-    "forks_count": 2274
+    "stargazers_count": 18868,
+    "open_issues_count": 1039,
+    "forks_count": 2278
   },
   {
     "full_name": "CRAG666/code_runner.nvim",
-    "stargazers_count": 217,
+    "stargazers_count": 223,
     "open_issues_count": 4,
     "forks_count": 14
   },
   {
     "full_name": "MyOwnClone/quake_watch",
-    "stargazers_count": 716,
+    "stargazers_count": 715,
     "open_issues_count": 2,
     "forks_count": 26
   },
@@ -145,38 +151,32 @@
   },
   {
     "full_name": "gnachman/iTerm2",
-    "stargazers_count": 12853,
+    "stargazers_count": 12864,
     "open_issues_count": 41,
     "forks_count": 1124
   },
   {
     "full_name": "edluffy/hologram.nvim",
-    "stargazers_count": 531,
-    "open_issues_count": 7,
-    "forks_count": 17
+    "stargazers_count": 540,
+    "open_issues_count": 8,
+    "forks_count": 18
   },
   {
     "full_name": "lewis6991/hover.nvim",
-    "stargazers_count": 116,
+    "stargazers_count": 126,
     "open_issues_count": 4,
-    "forks_count": 6
+    "forks_count": 7
   },
   {
     "full_name": "znck/grammarly",
-    "stargazers_count": 1307,
+    "stargazers_count": 1316,
     "open_issues_count": 33,
     "forks_count": 84
   },
   {
     "full_name": "wesdoyle/design-patterns-explained-with-food",
-    "stargazers_count": 2305,
+    "stargazers_count": 2307,
     "open_issues_count": 0,
     "forks_count": 155
-  },
-  {
-    "full_name": "ikrima/gamedevguide",
-    "stargazers_count": 444,
-    "open_issues_count": 0,
-    "forks_count": 74
   }
 ]

@@ -7,7 +7,7 @@
   },
   {
     "full_name": "ahmetb/go-linq",
-    "stargazers_count": 3135,
+    "stargazers_count": 3140,
     "open_issues_count": 9,
     "forks_count": 224
   },
@@ -31,27 +31,27 @@
   },
   {
     "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 9276,
+    "stargazers_count": 9285,
     "open_issues_count": 3,
-    "forks_count": 1209
+    "forks_count": 1208
   },
   {
     "full_name": "ggerganov/kbd-audio",
-    "stargazers_count": 5738,
+    "stargazers_count": 5747,
     "open_issues_count": 7,
     "forks_count": 455
   },
   {
     "full_name": "kekyo/MarkTheRipper",
-    "stargazers_count": 3,
+    "stargazers_count": 4,
     "open_issues_count": 8,
     "forks_count": 0
   },
   {
     "full_name": "jamesmontemagno/dotnet-conferences",
-    "stargazers_count": 27,
+    "stargazers_count": 28,
     "open_issues_count": 0,
-    "forks_count": 12
+    "forks_count": 13
   },
   {
     "full_name": "Sedeniono/tiny-optional",
@@ -61,21 +61,21 @@
   },
   {
     "full_name": "glacambre/firenvim",
-    "stargazers_count": 3122,
-    "open_issues_count": 69,
-    "forks_count": 111
+    "stargazers_count": 3129,
+    "open_issues_count": 70,
+    "forks_count": 112
   },
   {
     "full_name": "ggandor/leap.nvim",
-    "stargazers_count": 2061,
-    "open_issues_count": 13,
-    "forks_count": 20
+    "stargazers_count": 2088,
+    "open_issues_count": 14,
+    "forks_count": 22
   },
   {
     "full_name": "microsoft/DevSkim",
-    "stargazers_count": 750,
+    "stargazers_count": 749,
     "open_issues_count": 38,
-    "forks_count": 100
+    "forks_count": 101
   },
   {
     "full_name": "andrewferrier/textobj-diagnostic.nvim",
@@ -85,7 +85,7 @@
   },
   {
     "full_name": "ArobaseSC/Coffee",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 0
   },
@@ -97,7 +97,7 @@
   },
   {
     "full_name": "jubnzv/virtual-types.nvim",
-    "stargazers_count": 200,
+    "stargazers_count": 201,
     "open_issues_count": 2,
     "forks_count": 4
   },
@@ -121,19 +121,19 @@
   },
   {
     "full_name": "KrustyKoyle/files.sa-mp.com-Archive",
-    "stargazers_count": 38,
+    "stargazers_count": 37,
     "open_issues_count": 1,
     "forks_count": 11
   },
   {
     "full_name": "AvaloniaUI/Live.Avalonia",
-    "stargazers_count": 213,
+    "stargazers_count": 214,
     "open_issues_count": 4,
     "forks_count": 10
   },
   {
     "full_name": "actions/download-artifact",
-    "stargazers_count": 760,
+    "stargazers_count": 761,
     "open_issues_count": 53,
     "forks_count": 285
   },
@@ -145,14 +145,14 @@
   },
   {
     "full_name": "poteto/hiring-without-whiteboards",
-    "stargazers_count": 32715,
-    "open_issues_count": 23,
-    "forks_count": 2853
+    "stargazers_count": 33170,
+    "open_issues_count": 27,
+    "forks_count": 2865
   },
   {
     "full_name": "linearmouse/linearmouse",
-    "stargazers_count": 1437,
-    "open_issues_count": 16,
+    "stargazers_count": 1447,
+    "open_issues_count": 17,
     "forks_count": 17
   },
   {
@@ -169,14 +169,14 @@
   },
   {
     "full_name": "CommunityToolkit/Maui",
-    "stargazers_count": 1044,
-    "open_issues_count": 72,
-    "forks_count": 140
+    "stargazers_count": 1050,
+    "open_issues_count": 71,
+    "forks_count": 141
   },
   {
     "full_name": "jsuarezruiz/awesome-dotnet-maui",
-    "stargazers_count": 630,
+    "stargazers_count": 637,
     "open_issues_count": 3,
-    "forks_count": 60
+    "forks_count": 61
   }
 ]

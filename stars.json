@@ -1,33 +1,81 @@
 [
   {
+    "full_name": "DNLHC/glance.nvim",
+    "stargazers_count": 66,
+    "open_issues_count": 1,
+    "forks_count": 0
+  },
+  {
+    "full_name": "DanielVolchek/tailiscope.nvim",
+    "stargazers_count": 16,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "AhmedAbdulrahman/aylin.vim",
+    "stargazers_count": 51,
+    "open_issues_count": 0,
+    "forks_count": 1
+  },
+  {
+    "full_name": "lucoiso/UEModularFeatures_ExtraActions",
+    "stargazers_count": 54,
+    "open_issues_count": 1,
+    "forks_count": 11
+  },
+  {
+    "full_name": "Voidware-Prohibited/ALSXT",
+    "stargazers_count": 40,
+    "open_issues_count": 11,
+    "forks_count": 9
+  },
+  {
+    "full_name": "dyanikoglu/ALS-Community",
+    "stargazers_count": 1378,
+    "open_issues_count": 9,
+    "forks_count": 430
+  },
+  {
+    "full_name": "albertotrunk/UE5-Dream",
+    "stargazers_count": 58,
+    "open_issues_count": 1,
+    "forks_count": 1
+  },
+  {
+    "full_name": "Iron-E/nvim-highlite",
+    "stargazers_count": 168,
+    "open_issues_count": 1,
+    "forks_count": 26
+  },
+  {
     "full_name": "kevinhwang91/nvim-ufo",
-    "stargazers_count": 790,
+    "stargazers_count": 795,
     "open_issues_count": 8,
     "forks_count": 12
   },
   {
     "full_name": "folke/neodev.nvim",
-    "stargazers_count": 617,
+    "stargazers_count": 624,
     "open_issues_count": 0,
     "forks_count": 26
   },
   {
     "full_name": "terrafx/terrafx",
-    "stargazers_count": 217,
-    "open_issues_count": 23,
+    "stargazers_count": 219,
+    "open_issues_count": 22,
     "forks_count": 21
   },
   {
     "full_name": "glacasa/Mastonet",
-    "stargazers_count": 137,
-    "open_issues_count": 1,
-    "forks_count": 20
+    "stargazers_count": 145,
+    "open_issues_count": 2,
+    "forks_count": 22
   },
   {
     "full_name": "langserver/langserver.github.io",
-    "stargazers_count": 193,
+    "stargazers_count": 194,
     "open_issues_count": 7,
-    "forks_count": 167
+    "forks_count": 168
   },
   {
     "full_name": "is0n/jaq-nvim",
@@ -37,21 +85,21 @@
   },
   {
     "full_name": "Doraku/DefaultEcs",
-    "stargazers_count": 484,
+    "stargazers_count": 485,
     "open_issues_count": 12,
     "forks_count": 46
   },
   {
     "full_name": "google/zx",
-    "stargazers_count": 35106,
-    "open_issues_count": 18,
-    "forks_count": 839
+    "stargazers_count": 35166,
+    "open_issues_count": 19,
+    "forks_count": 838
   },
   {
     "full_name": "meysamhadeli/awesome-dotnet-tips",
-    "stargazers_count": 619,
+    "stargazers_count": 631,
     "open_issues_count": 0,
-    "forks_count": 143
+    "forks_count": 144
   },
   {
     "full_name": "novelrt/NovelRT.Dotnet",
@@ -61,7 +109,7 @@
   },
   {
     "full_name": "sharkdp/hyperfine",
-    "stargazers_count": 13631,
+    "stargazers_count": 13677,
     "open_issues_count": 33,
     "forks_count": 250
   },
@@ -73,20 +121,20 @@
   },
   {
     "full_name": "lucoiso/UEProject_Elementus",
-    "stargazers_count": 70,
+    "stargazers_count": 72,
     "open_issues_count": 3,
     "forks_count": 19
   },
   {
     "full_name": "cshuaimin/ssr.nvim",
-    "stargazers_count": 302,
+    "stargazers_count": 376,
     "open_issues_count": 2,
-    "forks_count": 1
+    "forks_count": 3
   },
   {
     "full_name": "cbochs/portal.nvim",
-    "stargazers_count": 91,
-    "open_issues_count": 3,
+    "stargazers_count": 92,
+    "open_issues_count": 2,
     "forks_count": 1
   },
   {
@@ -97,13 +145,13 @@
   },
   {
     "full_name": "efcore/EFCore.NamingConventions",
-    "stargazers_count": 409,
+    "stargazers_count": 413,
     "open_issues_count": 27,
     "forks_count": 51
   },
   {
     "full_name": "sarulabs/di",
-    "stargazers_count": 541,
+    "stargazers_count": 542,
     "open_issues_count": 4,
     "forks_count": 36
   },
@@ -111,72 +159,24 @@
     "full_name": "AvaloniaCommunity/MessageBox.Avalonia",
     "stargazers_count": 229,
     "open_issues_count": 9,
-    "forks_count": 23
+    "forks_count": 22
   },
   {
     "full_name": "microsoft/monaco-editor",
-    "stargazers_count": 31963,
-    "open_issues_count": 778,
-    "forks_count": 3076
+    "stargazers_count": 32007,
+    "open_issues_count": 781,
+    "forks_count": 3075
   },
   {
     "full_name": "sandermvanvliet/Codenizer.Avalonia.Map",
-    "stargazers_count": 7,
+    "stargazers_count": 8,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "IncroyablePix/Trema",
-    "stargazers_count": 4,
+    "stargazers_count": 5,
     "open_issues_count": 0,
     "forks_count": 2
-  },
-  {
-    "full_name": "ahmetb/go-linq",
-    "stargazers_count": 3161,
-    "open_issues_count": 9,
-    "forks_count": 224
-  },
-  {
-    "full_name": "ZacharyPatten/dotnet-console-games",
-    "stargazers_count": 407,
-    "open_issues_count": 14,
-    "forks_count": 61
-  },
-  {
-    "full_name": "asynkron/realtimemap-dotnet",
-    "stargazers_count": 72,
-    "open_issues_count": 0,
-    "forks_count": 14
-  },
-  {
-    "full_name": "NaolShow/Sacados",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
-  },
-  {
-    "full_name": "heynickc/awesome-ddd",
-    "stargazers_count": 9352,
-    "open_issues_count": 2,
-    "forks_count": 1211
-  },
-  {
-    "full_name": "ggerganov/kbd-audio",
-    "stargazers_count": 5754,
-    "open_issues_count": 7,
-    "forks_count": 455
-  },
-  {
-    "full_name": "kekyo/MarkTheRipper",
-    "stargazers_count": 4,
-    "open_issues_count": 8,
-    "forks_count": 0
-  },
-  {
-    "full_name": "jamesmontemagno/dotnet-conferences",
-    "stargazers_count": 29,
-    "open_issues_count": 1,
-    "forks_count": 14
   }
 ]

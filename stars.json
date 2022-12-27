@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "pakrym/jab",
+    "stargazers_count": 811,
+    "open_issues_count": 11,
+    "forks_count": 23
+  },
+  {
+    "full_name": "mehdihadeli/awesome-software-architecture",
+    "stargazers_count": 1079,
+    "open_issues_count": 5,
+    "forks_count": 66
+  },
+  {
     "full_name": "TartanLlama/expected",
-    "stargazers_count": 934,
+    "stargazers_count": 936,
     "open_issues_count": 46,
     "forks_count": 89
   },
   {
     "full_name": "Catel/Catel",
-    "stargazers_count": 778,
-    "open_issues_count": 14,
-    "forks_count": 137
+    "stargazers_count": 780,
+    "open_issues_count": 15,
+    "forks_count": 138
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 494,
+    "stargazers_count": 523,
     "open_issues_count": 7,
-    "forks_count": 18
+    "forks_count": 19
   },
   {
     "full_name": "MicaForEveryone/MicaForEveryone",
-    "stargazers_count": 1508,
-    "open_issues_count": 26,
-    "forks_count": 53
+    "stargazers_count": 1516,
+    "open_issues_count": 25,
+    "forks_count": 54
   },
   {
     "full_name": "LinArcX/telescope-command-palette.nvim",
@@ -31,32 +43,32 @@
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 685,
-    "open_issues_count": 20,
+    "stargazers_count": 686,
+    "open_issues_count": 19,
     "forks_count": 26
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 2522,
+    "stargazers_count": 2526,
     "open_issues_count": 13,
     "forks_count": 69
   },
   {
     "full_name": "JetBrains/gradle-intellij-plugin",
-    "stargazers_count": 1259,
+    "stargazers_count": 1261,
     "open_issues_count": 77,
     "forks_count": 263
   },
   {
     "full_name": "egbakou/RESTCountries.NET",
-    "stargazers_count": 139,
+    "stargazers_count": 177,
     "open_issues_count": 1,
-    "forks_count": 9
+    "forks_count": 11
   },
   {
     "full_name": "M2Team/NanaZip",
-    "stargazers_count": 3834,
-    "open_issues_count": 93,
+    "stargazers_count": 3851,
+    "open_issues_count": 94,
     "forks_count": 118
   },
   {
@@ -73,27 +85,27 @@
   },
   {
     "full_name": "terror/chatgpt.nvim",
-    "stargazers_count": 164,
+    "stargazers_count": 169,
     "open_issues_count": 11,
     "forks_count": 3
   },
   {
     "full_name": "maraf/Money",
     "stargazers_count": 159,
-    "open_issues_count": 59,
+    "open_issues_count": 60,
     "forks_count": 32
   },
   {
     "full_name": "tamton-aquib/duck.nvim",
-    "stargazers_count": 299,
+    "stargazers_count": 302,
     "open_issues_count": 1,
     "forks_count": 6
   },
   {
     "full_name": "ChilliCream/hotchocolate",
-    "stargazers_count": 4087,
-    "open_issues_count": 318,
-    "forks_count": 590
+    "stargazers_count": 4098,
+    "open_issues_count": 323,
+    "forks_count": 591
   },
   {
     "full_name": "AmyrAhmady/omp-ipc",
@@ -103,7 +115,7 @@
   },
   {
     "full_name": "ybainier/Hypodermic",
-    "stargazers_count": 444,
+    "stargazers_count": 445,
     "open_issues_count": 3,
     "forks_count": 69
   },
@@ -115,37 +127,37 @@
   },
   {
     "full_name": "dotnet/Nerdbank.GitVersioning",
-    "stargazers_count": 1085,
+    "stargazers_count": 1088,
     "open_issues_count": 83,
-    "forks_count": 156
+    "forks_count": 157
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 33276,
+    "stargazers_count": 33372,
     "open_issues_count": 90,
-    "forks_count": 835
+    "forks_count": 836
   },
   {
     "full_name": "Allar/ue5-style-guide",
-    "stargazers_count": 3636,
+    "stargazers_count": 3637,
     "open_issues_count": 37,
-    "forks_count": 900
+    "forks_count": 901
   },
   {
     "full_name": "RMichelsen/Nvy",
     "stargazers_count": 186,
-    "open_issues_count": 14,
+    "open_issues_count": 7,
     "forks_count": 13
   },
   {
     "full_name": "killop/anything_about_game",
-    "stargazers_count": 1628,
+    "stargazers_count": 1632,
     "open_issues_count": 0,
     "forks_count": 264
   },
   {
     "full_name": "tamton-aquib/zone.nvim",
-    "stargazers_count": 145,
+    "stargazers_count": 147,
     "open_issues_count": 3,
     "forks_count": 2
   },
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "EliverLara/Andromeda",
-    "stargazers_count": 266,
+    "stargazers_count": 267,
     "open_issues_count": 17,
     "forks_count": 38
   },
   {
     "full_name": "coditori/highly-skilled-job-offers",
-    "stargazers_count": 158,
+    "stargazers_count": 161,
     "open_issues_count": 0,
     "forks_count": 12
-  },
-  {
-    "full_name": "matthiasjost/dotnet-creators-opml",
-    "stargazers_count": 36,
-    "open_issues_count": 0,
-    "forks_count": 3
-  },
-  {
-    "full_name": "Pantong51/GASContent",
-    "stargazers_count": 610,
-    "open_issues_count": 0,
-    "forks_count": 82
   }
 ]

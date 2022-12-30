@@ -1,39 +1,45 @@
 [
   {
+    "full_name": "marticliment/WingetUI",
+    "stargazers_count": 1143,
+    "open_issues_count": 63,
+    "forks_count": 42
+  },
+  {
     "full_name": "pakrym/jab",
-    "stargazers_count": 811,
+    "stargazers_count": 813,
     "open_issues_count": 11,
     "forks_count": 23
   },
   {
     "full_name": "mehdihadeli/awesome-software-architecture",
-    "stargazers_count": 1079,
+    "stargazers_count": 1095,
     "open_issues_count": 5,
-    "forks_count": 66
+    "forks_count": 67
   },
   {
     "full_name": "TartanLlama/expected",
-    "stargazers_count": 936,
+    "stargazers_count": 938,
     "open_issues_count": 46,
     "forks_count": 89
   },
   {
     "full_name": "Catel/Catel",
-    "stargazers_count": 780,
+    "stargazers_count": 781,
     "open_issues_count": 15,
     "forks_count": 138
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 523,
-    "open_issues_count": 7,
-    "forks_count": 19
+    "stargazers_count": 544,
+    "open_issues_count": 8,
+    "forks_count": 20
   },
   {
     "full_name": "MicaForEveryone/MicaForEveryone",
-    "stargazers_count": 1516,
-    "open_issues_count": 25,
-    "forks_count": 54
+    "stargazers_count": 1531,
+    "open_issues_count": 26,
+    "forks_count": 56
   },
   {
     "full_name": "LinArcX/telescope-command-palette.nvim",
@@ -44,31 +50,31 @@
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
     "stargazers_count": 686,
-    "open_issues_count": 19,
+    "open_issues_count": 18,
     "forks_count": 26
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 2526,
-    "open_issues_count": 13,
+    "stargazers_count": 2527,
+    "open_issues_count": 12,
     "forks_count": 69
   },
   {
     "full_name": "JetBrains/gradle-intellij-plugin",
     "stargazers_count": 1261,
-    "open_issues_count": 77,
+    "open_issues_count": 86,
     "forks_count": 263
   },
   {
     "full_name": "egbakou/RESTCountries.NET",
-    "stargazers_count": 177,
+    "stargazers_count": 216,
     "open_issues_count": 1,
-    "forks_count": 11
+    "forks_count": 14
   },
   {
     "full_name": "M2Team/NanaZip",
-    "stargazers_count": 3851,
-    "open_issues_count": 94,
+    "stargazers_count": 3878,
+    "open_issues_count": 95,
     "forks_count": 118
   },
   {
@@ -85,26 +91,26 @@
   },
   {
     "full_name": "terror/chatgpt.nvim",
-    "stargazers_count": 169,
-    "open_issues_count": 11,
+    "stargazers_count": 174,
+    "open_issues_count": 12,
     "forks_count": 3
   },
   {
     "full_name": "maraf/Money",
-    "stargazers_count": 159,
-    "open_issues_count": 60,
+    "stargazers_count": 160,
+    "open_issues_count": 61,
     "forks_count": 32
   },
   {
     "full_name": "tamton-aquib/duck.nvim",
-    "stargazers_count": 302,
+    "stargazers_count": 305,
     "open_issues_count": 1,
-    "forks_count": 6
+    "forks_count": 5
   },
   {
     "full_name": "ChilliCream/hotchocolate",
-    "stargazers_count": 4098,
-    "open_issues_count": 323,
+    "stargazers_count": 4105,
+    "open_issues_count": 322,
     "forks_count": 591
   },
   {
@@ -115,32 +121,32 @@
   },
   {
     "full_name": "ybainier/Hypodermic",
-    "stargazers_count": 445,
+    "stargazers_count": 446,
     "open_issues_count": 3,
     "forks_count": 69
   },
   {
     "full_name": "ElgSoft/ElgEditorScripting",
-    "stargazers_count": 106,
+    "stargazers_count": 108,
     "open_issues_count": 5,
     "forks_count": 21
   },
   {
     "full_name": "dotnet/Nerdbank.GitVersioning",
-    "stargazers_count": 1088,
+    "stargazers_count": 1089,
     "open_issues_count": 83,
     "forks_count": 157
   },
   {
     "full_name": "nektos/act",
-    "stargazers_count": 33372,
-    "open_issues_count": 90,
-    "forks_count": 836
+    "stargazers_count": 33450,
+    "open_issues_count": 91,
+    "forks_count": 839
   },
   {
     "full_name": "Allar/ue5-style-guide",
-    "stargazers_count": 3637,
-    "open_issues_count": 37,
+    "stargazers_count": 3645,
+    "open_issues_count": 38,
     "forks_count": 901
   },
   {
@@ -151,9 +157,9 @@
   },
   {
     "full_name": "killop/anything_about_game",
-    "stargazers_count": 1632,
+    "stargazers_count": 1648,
     "open_issues_count": 0,
-    "forks_count": 264
+    "forks_count": 266
   },
   {
     "full_name": "tamton-aquib/zone.nvim",
@@ -172,11 +178,5 @@
     "stargazers_count": 267,
     "open_issues_count": 17,
     "forks_count": 38
-  },
-  {
-    "full_name": "coditori/highly-skilled-job-offers",
-    "stargazers_count": 161,
-    "open_issues_count": 0,
-    "forks_count": 12
   }
 ]

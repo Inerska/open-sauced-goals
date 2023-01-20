@@ -1,27 +1,45 @@
 [
   {
+    "full_name": "ojroques/nvim-hardline",
+    "stargazers_count": 150,
+    "open_issues_count": 0,
+    "forks_count": 18
+  },
+  {
+    "full_name": "DotJoshJohnson/vscode-xml",
+    "stargazers_count": 292,
+    "open_issues_count": 83,
+    "forks_count": 92
+  },
+  {
+    "full_name": "kasuken/stone.css",
+    "stargazers_count": 25,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
     "full_name": "marciniuk/undertale",
-    "stargazers_count": 105,
+    "stargazers_count": 111,
     "open_issues_count": 0,
     "forks_count": 43
   },
   {
     "full_name": "Erisa/Cliptok",
-    "stargazers_count": 58,
+    "stargazers_count": 59,
     "open_issues_count": 23,
     "forks_count": 30
   },
   {
     "full_name": "lencx/ChatGPT",
-    "stargazers_count": 5075,
-    "open_issues_count": 24,
-    "forks_count": 346
+    "stargazers_count": 5447,
+    "open_issues_count": 27,
+    "forks_count": 380
   },
   {
     "full_name": "vblanco20-1/vulkan-guide",
-    "stargazers_count": 553,
+    "stargazers_count": 556,
     "open_issues_count": 16,
-    "forks_count": 126
+    "forks_count": 127
   },
   {
     "full_name": "openmultiplayer/open.mp-sdk",
@@ -31,43 +49,43 @@
   },
   {
     "full_name": "kamranahmedse/developer-roadmap",
-    "stargazers_count": 225504,
-    "open_issues_count": 113,
-    "forks_count": 32506
+    "stargazers_count": 225854,
+    "open_issues_count": 125,
+    "forks_count": 32526
   },
   {
     "full_name": "adospace/reactorui-maui",
-    "stargazers_count": 150,
+    "stargazers_count": 154,
     "open_issues_count": 1,
     "forks_count": 10
   },
   {
     "full_name": "ryanoasis/nerd-fonts",
-    "stargazers_count": 40910,
+    "stargazers_count": 40980,
     "open_issues_count": 216,
-    "forks_count": 3170
+    "forks_count": 3174
   },
   {
     "full_name": "TestFX/TestFX",
-    "stargazers_count": 830,
-    "open_issues_count": 151,
+    "stargazers_count": 831,
+    "open_issues_count": 152,
     "forks_count": 153
   },
   {
     "full_name": "AvaloniaUtils/DialogHost.Avalonia",
-    "stargazers_count": 84,
+    "stargazers_count": 85,
     "open_issues_count": 0,
     "forks_count": 7
   },
   {
     "full_name": "bilal-fazlani/commanddotnet",
-    "stargazers_count": 480,
+    "stargazers_count": 481,
     "open_issues_count": 13,
     "forks_count": 28
   },
   {
     "full_name": "FeiyouG/command_center.nvim",
-    "stargazers_count": 194,
+    "stargazers_count": 196,
     "open_issues_count": 5,
     "forks_count": 7
   },
@@ -85,26 +103,26 @@
   },
   {
     "full_name": "marticliment/WingetUI",
-    "stargazers_count": 1388,
-    "open_issues_count": 63,
-    "forks_count": 48
+    "stargazers_count": 1406,
+    "open_issues_count": 62,
+    "forks_count": 47
   },
   {
     "full_name": "pakrym/jab",
-    "stargazers_count": 824,
+    "stargazers_count": 825,
     "open_issues_count": 12,
-    "forks_count": 24
+    "forks_count": 25
   },
   {
     "full_name": "mehdihadeli/awesome-software-architecture",
-    "stargazers_count": 1160,
+    "stargazers_count": 1179,
     "open_issues_count": 5,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "TartanLlama/expected",
-    "stargazers_count": 965,
-    "open_issues_count": 49,
+    "stargazers_count": 969,
+    "open_issues_count": 50,
     "forks_count": 91
   },
   {
@@ -115,13 +133,13 @@
   },
   {
     "full_name": "jackMort/ChatGPT.nvim",
-    "stargazers_count": 652,
+    "stargazers_count": 670,
     "open_issues_count": 21,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "MicaForEveryone/MicaForEveryone",
-    "stargazers_count": 1621,
+    "stargazers_count": 1631,
     "open_issues_count": 29,
     "forks_count": 64
   },
@@ -133,50 +151,32 @@
   },
   {
     "full_name": "kristijanhusak/vim-dadbod-ui",
-    "stargazers_count": 692,
+    "stargazers_count": 699,
     "open_issues_count": 17,
     "forks_count": 28
   },
   {
     "full_name": "tpope/vim-dadbod",
-    "stargazers_count": 2543,
+    "stargazers_count": 2550,
     "open_issues_count": 13,
     "forks_count": 69
   },
   {
     "full_name": "JetBrains/gradle-intellij-plugin",
-    "stargazers_count": 1262,
-    "open_issues_count": 78,
+    "stargazers_count": 1264,
+    "open_issues_count": 80,
     "forks_count": 266
   },
   {
     "full_name": "egbakou/RESTCountries.NET",
-    "stargazers_count": 257,
+    "stargazers_count": 261,
     "open_issues_count": 1,
     "forks_count": 15
   },
   {
     "full_name": "M2Team/NanaZip",
-    "stargazers_count": 3973,
-    "open_issues_count": 100,
+    "stargazers_count": 3984,
+    "open_issues_count": 101,
     "forks_count": 120
-  },
-  {
-    "full_name": "RobThree/NIdenticon",
-    "stargazers_count": 82,
-    "open_issues_count": 0,
-    "forks_count": 12
-  },
-  {
-    "full_name": "fdefelici/vs-funreal",
-    "stargazers_count": 16,
-    "open_issues_count": 0,
-    "forks_count": 1
-  },
-  {
-    "full_name": "terror/chatgpt.nvim",
-    "stargazers_count": 189,
-    "open_issues_count": 13,
-    "forks_count": 8
   }
 ]

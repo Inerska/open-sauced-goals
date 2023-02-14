@@ -1,27 +1,39 @@
 [
   {
+    "full_name": "enaqx/awesome-react",
+    "stargazers_count": 53839,
+    "open_issues_count": 160,
+    "forks_count": 6575
+  },
+  {
+    "full_name": "srwi/EverythingToolbar",
+    "stargazers_count": 5568,
+    "open_issues_count": 28,
+    "forks_count": 293
+  },
+  {
     "full_name": "wtchnm/Vitamin",
-    "stargazers_count": 311,
-    "open_issues_count": 10,
-    "forks_count": 34
+    "stargazers_count": 313,
+    "open_issues_count": 12,
+    "forks_count": 33
   },
   {
     "full_name": "YairHalberstadt/stronginject",
-    "stargazers_count": 764,
+    "stargazers_count": 766,
     "open_issues_count": 19,
     "forks_count": 24
   },
   {
     "full_name": "JetBrains/qodana-action",
-    "stargazers_count": 173,
+    "stargazers_count": 174,
     "open_issues_count": 0,
     "forks_count": 19
   },
   {
     "full_name": "MicrosoftDocs/CommunityToolkit",
     "stargazers_count": 40,
-    "open_issues_count": 30,
-    "forks_count": 41
+    "open_issues_count": 33,
+    "forks_count": 43
   },
   {
     "full_name": "poacpm/poac",
@@ -31,20 +43,20 @@
   },
   {
     "full_name": "yazeedobaid/openai-fsharp",
-    "stargazers_count": 31,
+    "stargazers_count": 32,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "estruyf/vscode-front-matter",
-    "stargazers_count": 1024,
-    "open_issues_count": 79,
+    "stargazers_count": 1029,
+    "open_issues_count": 78,
     "forks_count": 34
   },
   {
     "full_name": "P4sca1/nuxt-headlessui",
-    "stargazers_count": 68,
-    "open_issues_count": 4,
+    "stargazers_count": 74,
+    "open_issues_count": 5,
     "forks_count": 2
   },
   {
@@ -55,8 +67,8 @@
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 2860,
-    "open_issues_count": 53,
+    "stargazers_count": 2878,
+    "open_issues_count": 51,
     "forks_count": 57
   },
   {
@@ -73,14 +85,14 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 23064,
-    "open_issues_count": 174,
-    "forks_count": 2336
+    "stargazers_count": 25506,
+    "open_issues_count": 187,
+    "forks_count": 2639
   },
   {
     "full_name": "shortcuts/no-neck-pain.nvim",
-    "stargazers_count": 202,
-    "open_issues_count": 7,
+    "stargazers_count": 206,
+    "open_issues_count": 11,
     "forks_count": 7
   },
   {
@@ -91,38 +103,38 @@
   },
   {
     "full_name": "sebas77/Svelto.ECS",
-    "stargazers_count": 907,
+    "stargazers_count": 911,
     "open_issues_count": 0,
     "forks_count": 78
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 86317,
+    "stargazers_count": 86441,
     "open_issues_count": 34,
-    "forks_count": 8929
+    "forks_count": 8942
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 164573,
+    "stargazers_count": 164748,
     "open_issues_count": 132,
-    "forks_count": 32069
+    "forks_count": 32087
   },
   {
     "full_name": "monaqa/dial.nvim",
-    "stargazers_count": 460,
+    "stargazers_count": 461,
     "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 3182,
-    "open_issues_count": 4,
-    "forks_count": 189
+    "stargazers_count": 3299,
+    "open_issues_count": 2,
+    "forks_count": 205
   },
   {
     "full_name": "FeroxFoxxo/MQReawakened",
-    "stargazers_count": 3,
-    "open_issues_count": 27,
+    "stargazers_count": 5,
+    "open_issues_count": 30,
     "forks_count": 1
   },
   {
@@ -133,13 +145,13 @@
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 25209,
-    "open_issues_count": 51,
-    "forks_count": 963
+    "stargazers_count": 25296,
+    "open_issues_count": 41,
+    "forks_count": 966
   },
   {
     "full_name": "jorgenpt/Hermes",
-    "stargazers_count": 72,
+    "stargazers_count": 75,
     "open_issues_count": 5,
     "forks_count": 4
   },
@@ -151,7 +163,7 @@
   },
   {
     "full_name": "DotJoshJohnson/vscode-xml",
-    "stargazers_count": 296,
+    "stargazers_count": 295,
     "open_issues_count": 83,
     "forks_count": 100
   },
@@ -165,18 +177,6 @@
     "full_name": "marciniuk/undertale",
     "stargazers_count": 129,
     "open_issues_count": 0,
-    "forks_count": 46
-  },
-  {
-    "full_name": "Erisa/Cliptok",
-    "stargazers_count": 58,
-    "open_issues_count": 23,
-    "forks_count": 30
-  },
-  {
-    "full_name": "lencx/ChatGPT",
-    "stargazers_count": 12129,
-    "open_issues_count": 75,
-    "forks_count": 1001
+    "forks_count": 47
   }
 ]

@@ -1,37 +1,49 @@
 [
   {
+    "full_name": "atusy/tsnode-marker.nvim",
+    "stargazers_count": 49,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "MichaeIDietrich/SmartMvvm.Xaml",
+    "stargazers_count": 23,
+    "open_issues_count": 1,
+    "forks_count": 3
+  },
+  {
     "full_name": "startup-nvim/startup.nvim",
-    "stargazers_count": 228,
+    "stargazers_count": 230,
     "open_issues_count": 6,
     "forks_count": 17
   },
   {
     "full_name": "kevinhwang91/nvim-bqf",
-    "stargazers_count": 1016,
+    "stargazers_count": 1021,
     "open_issues_count": 9,
-    "forks_count": 15
+    "forks_count": 14
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 53890,
-    "open_issues_count": 161,
-    "forks_count": 6577
+    "stargazers_count": 53978,
+    "open_issues_count": 160,
+    "forks_count": 6589
   },
   {
     "full_name": "srwi/EverythingToolbar",
-    "stargazers_count": 5605,
+    "stargazers_count": 5626,
     "open_issues_count": 28,
     "forks_count": 296
   },
   {
     "full_name": "wtchnm/Vitamin",
-    "stargazers_count": 314,
-    "open_issues_count": 11,
+    "stargazers_count": 316,
+    "open_issues_count": 3,
     "forks_count": 32
   },
   {
     "full_name": "YairHalberstadt/stronginject",
-    "stargazers_count": 768,
+    "stargazers_count": 770,
     "open_issues_count": 19,
     "forks_count": 24
   },
@@ -39,12 +51,12 @@
     "full_name": "JetBrains/qodana-action",
     "stargazers_count": 174,
     "open_issues_count": 0,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "MicrosoftDocs/CommunityToolkit",
-    "stargazers_count": 41,
-    "open_issues_count": 34,
+    "stargazers_count": 42,
+    "open_issues_count": 33,
     "forks_count": 43
   },
   {
@@ -55,13 +67,13 @@
   },
   {
     "full_name": "yazeedobaid/openai-fsharp",
-    "stargazers_count": 32,
+    "stargazers_count": 33,
     "open_issues_count": 0,
     "forks_count": 1
   },
   {
     "full_name": "estruyf/vscode-front-matter",
-    "stargazers_count": 1037,
+    "stargazers_count": 1046,
     "open_issues_count": 57,
     "forks_count": 35
   },
@@ -79,8 +91,8 @@
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 2900,
-    "open_issues_count": 51,
+    "stargazers_count": 2920,
+    "open_issues_count": 49,
     "forks_count": 57
   },
   {
@@ -97,20 +109,20 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 27502,
-    "open_issues_count": 203,
-    "forks_count": 2957
+    "stargazers_count": 29331,
+    "open_issues_count": 213,
+    "forks_count": 3232
   },
   {
     "full_name": "shortcuts/no-neck-pain.nvim",
     "stargazers_count": 206,
-    "open_issues_count": 6,
+    "open_issues_count": 7,
     "forks_count": 7
   },
   {
     "full_name": "jsuarezruiz/AlohaKit.UI",
-    "stargazers_count": 67,
-    "open_issues_count": 2,
+    "stargazers_count": 68,
+    "open_issues_count": 3,
     "forks_count": 4
   },
   {
@@ -121,32 +133,32 @@
   },
   {
     "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 86533,
+    "stargazers_count": 86619,
     "open_issues_count": 34,
-    "forks_count": 8952
+    "forks_count": 8956
   },
   {
     "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 164856,
+    "stargazers_count": 165050,
     "open_issues_count": 132,
-    "forks_count": 32100
+    "forks_count": 32128
   },
   {
     "full_name": "monaqa/dial.nvim",
-    "stargazers_count": 461,
+    "stargazers_count": 462,
     "open_issues_count": 7,
     "forks_count": 6
   },
   {
     "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 3399,
-    "open_issues_count": 3,
-    "forks_count": 211
+    "stargazers_count": 3617,
+    "open_issues_count": 4,
+    "forks_count": 226
   },
   {
     "full_name": "FeroxFoxxo/MQReawakened",
     "stargazers_count": 5,
-    "open_issues_count": 29,
+    "open_issues_count": 27,
     "forks_count": 1
   },
   {
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "slidevjs/slidev",
-    "stargazers_count": 25339,
-    "open_issues_count": 43,
-    "forks_count": 968
+    "stargazers_count": 25431,
+    "open_issues_count": 44,
+    "forks_count": 973
   },
   {
     "full_name": "jorgenpt/Hermes",
-    "stargazers_count": 76,
+    "stargazers_count": 78,
     "open_issues_count": 5,
     "forks_count": 4
-  },
-  {
-    "full_name": "ojroques/nvim-hardline",
-    "stargazers_count": 151,
-    "open_issues_count": 0,
-    "forks_count": 18
-  },
-  {
-    "full_name": "DotJoshJohnson/vscode-xml",
-    "stargazers_count": 295,
-    "open_issues_count": 83,
-    "forks_count": 100
   }
 ]

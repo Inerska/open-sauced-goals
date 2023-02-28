@@ -1,25 +1,67 @@
 [
   {
+    "full_name": "imkimchi/ni",
+    "stargazers_count": 75,
+    "open_issues_count": 3,
+    "forks_count": 1
+  },
+  {
+    "full_name": "AmbientRun/Ambient",
+    "stargazers_count": 2466,
+    "open_issues_count": 60,
+    "forks_count": 71
+  },
+  {
+    "full_name": "mob-sakai/UIEffect",
+    "stargazers_count": 4380,
+    "open_issues_count": 70,
+    "forks_count": 636
+  },
+  {
+    "full_name": "danielroe/magic-regexp",
+    "stargazers_count": 2686,
+    "open_issues_count": 12,
+    "forks_count": 39
+  },
+  {
+    "full_name": "nextauthjs/next-auth",
+    "stargazers_count": 14948,
+    "open_issues_count": 211,
+    "forks_count": 1785
+  },
+  {
+    "full_name": "cpp-best-practices/cppbestpractices",
+    "stargazers_count": 6812,
+    "open_issues_count": 27,
+    "forks_count": 787
+  },
+  {
+    "full_name": "iggredible/Learn-Vim",
+    "stargazers_count": 10703,
+    "open_issues_count": 7,
+    "forks_count": 918
+  },
+  {
     "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 15648,
+    "stargazers_count": 15672,
     "open_issues_count": 8,
-    "forks_count": 1771
+    "forks_count": 1773
   },
   {
     "full_name": "solidjs/solid-router",
-    "stargazers_count": 710,
-    "open_issues_count": 31,
-    "forks_count": 78
+    "stargazers_count": 718,
+    "open_issues_count": 30,
+    "forks_count": 80
   },
   {
     "full_name": "martinothamar/Mediator",
-    "stargazers_count": 1194,
+    "stargazers_count": 1202,
     "open_issues_count": 19,
-    "forks_count": 36
+    "forks_count": 37
   },
   {
     "full_name": "atusy/tsnode-marker.nvim",
-    "stargazers_count": 51,
+    "stargazers_count": 61,
     "open_issues_count": 2,
     "forks_count": 1
   },
@@ -31,37 +73,37 @@
   },
   {
     "full_name": "startup-nvim/startup.nvim",
-    "stargazers_count": 231,
+    "stargazers_count": 232,
     "open_issues_count": 5,
-    "forks_count": 17
+    "forks_count": 19
   },
   {
     "full_name": "kevinhwang91/nvim-bqf",
-    "stargazers_count": 1029,
+    "stargazers_count": 1033,
     "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 54036,
+    "stargazers_count": 54110,
     "open_issues_count": 161,
-    "forks_count": 6596
+    "forks_count": 6603
   },
   {
     "full_name": "srwi/EverythingToolbar",
-    "stargazers_count": 5635,
-    "open_issues_count": 27,
-    "forks_count": 298
+    "stargazers_count": 5690,
+    "open_issues_count": 26,
+    "forks_count": 300
   },
   {
     "full_name": "wtchnm/Vitamin",
-    "stargazers_count": 317,
+    "stargazers_count": 319,
     "open_issues_count": 3,
     "forks_count": 32
   },
   {
     "full_name": "YairHalberstadt/stronginject",
-    "stargazers_count": 771,
+    "stargazers_count": 777,
     "open_issues_count": 19,
     "forks_count": 24
   },
@@ -73,13 +115,13 @@
   },
   {
     "full_name": "MicrosoftDocs/CommunityToolkit",
-    "stargazers_count": 42,
-    "open_issues_count": 34,
+    "stargazers_count": 43,
+    "open_issues_count": 37,
     "forks_count": 43
   },
   {
     "full_name": "poac-dev/poac",
-    "stargazers_count": 612,
+    "stargazers_count": 614,
     "open_issues_count": 5,
     "forks_count": 54
   },
@@ -91,13 +133,13 @@
   },
   {
     "full_name": "estruyf/vscode-front-matter",
-    "stargazers_count": 1052,
-    "open_issues_count": 59,
+    "stargazers_count": 1055,
+    "open_issues_count": 63,
     "forks_count": 35
   },
   {
     "full_name": "P4sca1/nuxt-headlessui",
-    "stargazers_count": 77,
+    "stargazers_count": 78,
     "open_issues_count": 5,
     "forks_count": 3
   },
@@ -109,13 +151,13 @@
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 2935,
-    "open_issues_count": 50,
+    "stargazers_count": 2964,
+    "open_issues_count": 51,
     "forks_count": 57
   },
   {
     "full_name": "2KAbhishek/Winfiles",
-    "stargazers_count": 27,
+    "stargazers_count": 29,
     "open_issues_count": 0,
     "forks_count": 1
   },
@@ -127,56 +169,14 @@
   },
   {
     "full_name": "f/awesome-chatgpt-prompts",
-    "stargazers_count": 31125,
-    "open_issues_count": 225,
-    "forks_count": 3459
+    "stargazers_count": 33167,
+    "open_issues_count": 237,
+    "forks_count": 3751
   },
   {
     "full_name": "shortcuts/no-neck-pain.nvim",
-    "stargazers_count": 207,
-    "open_issues_count": 6,
-    "forks_count": 7
-  },
-  {
-    "full_name": "jsuarezruiz/AlohaKit.UI",
-    "stargazers_count": 68,
-    "open_issues_count": 3,
-    "forks_count": 4
-  },
-  {
-    "full_name": "sebas77/Svelto.ECS",
-    "stargazers_count": 916,
-    "open_issues_count": 0,
-    "forks_count": 78
-  },
-  {
-    "full_name": "goldbergyoni/nodebestpractices",
-    "stargazers_count": 86699,
-    "open_issues_count": 34,
-    "forks_count": 8969
-  },
-  {
-    "full_name": "getify/You-Dont-Know-JS",
-    "stargazers_count": 165177,
-    "open_issues_count": 132,
-    "forks_count": 32154
-  },
-  {
-    "full_name": "monaqa/dial.nvim",
-    "stargazers_count": 463,
-    "open_issues_count": 7,
-    "forks_count": 6
-  },
-  {
-    "full_name": "LazyVim/LazyVim",
-    "stargazers_count": 3760,
-    "open_issues_count": 8,
-    "forks_count": 233
-  },
-  {
-    "full_name": "FeroxFoxxo/MQReawakened",
-    "stargazers_count": 6,
-    "open_issues_count": 26,
-    "forks_count": 1
+    "stargazers_count": 208,
+    "open_issues_count": 4,
+    "forks_count": 8
   }
 ]

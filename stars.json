@@ -1,5 +1,11 @@
 [
   {
+    "full_name": "saadeghi/daisyui",
+    "stargazers_count": 18756,
+    "open_issues_count": 84,
+    "forks_count": 751
+  },
+  {
     "full_name": "floriankyn/MindToy-Discord-Bot",
     "stargazers_count": 2,
     "open_issues_count": 0,
@@ -19,62 +25,62 @@
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 2597,
-    "open_issues_count": 70,
-    "forks_count": 76
+    "stargazers_count": 2716,
+    "open_issues_count": 72,
+    "forks_count": 81
   },
   {
     "full_name": "mob-sakai/UIEffect",
-    "stargazers_count": 4388,
+    "stargazers_count": 4395,
     "open_issues_count": 70,
-    "forks_count": 639
+    "forks_count": 638
   },
   {
     "full_name": "danielroe/magic-regexp",
-    "stargazers_count": 2836,
-    "open_issues_count": 15,
+    "stargazers_count": 2912,
+    "open_issues_count": 16,
     "forks_count": 41
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 15006,
-    "open_issues_count": 199,
-    "forks_count": 1795
+    "stargazers_count": 15086,
+    "open_issues_count": 201,
+    "forks_count": 1809
   },
   {
     "full_name": "cpp-best-practices/cppbestpractices",
-    "stargazers_count": 6813,
+    "stargazers_count": 6821,
     "open_issues_count": 27,
     "forks_count": 788
   },
   {
     "full_name": "iggredible/Learn-Vim",
-    "stargazers_count": 10880,
+    "stargazers_count": 10932,
     "open_issues_count": 8,
-    "forks_count": 924
+    "forks_count": 932
   },
   {
     "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 15696,
-    "open_issues_count": 8,
-    "forks_count": 1775
+    "stargazers_count": 15713,
+    "open_issues_count": 7,
+    "forks_count": 1776
   },
   {
     "full_name": "solidjs/solid-router",
-    "stargazers_count": 722,
+    "stargazers_count": 730,
     "open_issues_count": 31,
     "forks_count": 80
   },
   {
     "full_name": "martinothamar/Mediator",
-    "stargazers_count": 1205,
+    "stargazers_count": 1216,
     "open_issues_count": 18,
-    "forks_count": 37
+    "forks_count": 38
   },
   {
     "full_name": "atusy/tsnode-marker.nvim",
-    "stargazers_count": 67,
-    "open_issues_count": 3,
+    "stargazers_count": 69,
+    "open_issues_count": 4,
     "forks_count": 2
   },
   {
@@ -91,31 +97,31 @@
   },
   {
     "full_name": "kevinhwang91/nvim-bqf",
-    "stargazers_count": 1040,
-    "open_issues_count": 10,
+    "stargazers_count": 1050,
+    "open_issues_count": 9,
     "forks_count": 14
   },
   {
     "full_name": "enaqx/awesome-react",
-    "stargazers_count": 54158,
+    "stargazers_count": 54213,
     "open_issues_count": 161,
-    "forks_count": 6613
+    "forks_count": 6611
   },
   {
     "full_name": "srwi/EverythingToolbar",
-    "stargazers_count": 5713,
-    "open_issues_count": 26,
-    "forks_count": 301
+    "stargazers_count": 5735,
+    "open_issues_count": 29,
+    "forks_count": 300
   },
   {
     "full_name": "wtchnm/Vitamin",
-    "stargazers_count": 321,
+    "stargazers_count": 322,
     "open_issues_count": 3,
     "forks_count": 33
   },
   {
     "full_name": "YairHalberstadt/stronginject",
-    "stargazers_count": 777,
+    "stargazers_count": 779,
     "open_issues_count": 19,
     "forks_count": 23
   },
@@ -128,25 +134,25 @@
   {
     "full_name": "MicrosoftDocs/CommunityToolkit",
     "stargazers_count": 43,
-    "open_issues_count": 33,
-    "forks_count": 44
+    "open_issues_count": 36,
+    "forks_count": 46
   },
   {
     "full_name": "poac-dev/poac",
-    "stargazers_count": 616,
+    "stargazers_count": 617,
     "open_issues_count": 5,
     "forks_count": 54
   },
   {
     "full_name": "yazeedobaid/openai-fsharp",
-    "stargazers_count": 34,
+    "stargazers_count": 35,
     "open_issues_count": 1,
     "forks_count": 1
   },
   {
     "full_name": "estruyf/vscode-front-matter",
-    "stargazers_count": 1063,
-    "open_issues_count": 67,
+    "stargazers_count": 1071,
+    "open_issues_count": 71,
     "forks_count": 35
   },
   {
@@ -163,20 +169,14 @@
   },
   {
     "full_name": "LGUG2Z/komorebi",
-    "stargazers_count": 3044,
-    "open_issues_count": 51,
-    "forks_count": 57
+    "stargazers_count": 3083,
+    "open_issues_count": 56,
+    "forks_count": 60
   },
   {
     "full_name": "2KAbhishek/Winfiles",
-    "stargazers_count": 29,
+    "stargazers_count": 30,
     "open_issues_count": 0,
     "forks_count": 1
-  },
-  {
-    "full_name": "floriankyn/Discord-Bot-Template",
-    "stargazers_count": 2,
-    "open_issues_count": 0,
-    "forks_count": 0
   }
 ]

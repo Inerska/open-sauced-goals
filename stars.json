@@ -1,5 +1,17 @@
 [
   {
+    "full_name": "ledonvert/library",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "drmolixcool/boostone",
+    "stargazers_count": 1,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
     "full_name": "davedawkins/Sutil",
     "stargazers_count": 249,
     "open_issues_count": 15,
@@ -7,15 +19,15 @@
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 249,
-    "open_issues_count": 18,
-    "forks_count": 34
+    "stargazers_count": 252,
+    "open_issues_count": 22,
+    "forks_count": 37
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 9735,
-    "open_issues_count": 35,
-    "forks_count": 476
+    "stargazers_count": 9772,
+    "open_issues_count": 22,
+    "forks_count": 481
   },
   {
     "full_name": "design-patterns-for-humans/design-patterns-for-humans-cs",
@@ -25,51 +37,51 @@
   },
   {
     "full_name": "google-research/google-research",
-    "stargazers_count": 28011,
-    "open_issues_count": 958,
-    "forks_count": 6949
+    "stargazers_count": 28071,
+    "open_issues_count": 963,
+    "forks_count": 6965
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 26096,
+    "stargazers_count": 26128,
     "open_issues_count": 92,
     "forks_count": 1031
   },
   {
     "full_name": "microsoft/visual-chatgpt",
-    "stargazers_count": 25841,
-    "open_issues_count": 119,
-    "forks_count": 2232
+    "stargazers_count": 26649,
+    "open_issues_count": 131,
+    "forks_count": 2341
   },
   {
     "full_name": "yuvalsuede/ai-component-generator",
-    "stargazers_count": 1002,
+    "stargazers_count": 1047,
     "open_issues_count": 10,
-    "forks_count": 98
+    "forks_count": 101
   },
   {
     "full_name": "Elfocrash/.NET-Backend-Developer-Roadmap",
-    "stargazers_count": 4696,
-    "open_issues_count": 6,
-    "forks_count": 385
+    "stargazers_count": 4754,
+    "open_issues_count": 7,
+    "forks_count": 389
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 23314,
-    "open_issues_count": 105,
-    "forks_count": 798
+    "stargazers_count": 23459,
+    "open_issues_count": 104,
+    "forks_count": 805
   },
   {
     "full_name": "flecs-hub/flecs-cs",
-    "stargazers_count": 35,
-    "open_issues_count": 7,
+    "stargazers_count": 36,
+    "open_issues_count": 6,
     "forks_count": 8
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 19203,
-    "open_issues_count": 85,
-    "forks_count": 770
+    "stargazers_count": 19316,
+    "open_issues_count": 86,
+    "forks_count": 771
   },
   {
     "full_name": "floriankyn/MindToy-Discord-Bot",
@@ -91,57 +103,57 @@
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 2795,
-    "open_issues_count": 83,
-    "forks_count": 89
+    "stargazers_count": 2819,
+    "open_issues_count": 79,
+    "forks_count": 90
   },
   {
     "full_name": "mob-sakai/UIEffect",
-    "stargazers_count": 4425,
+    "stargazers_count": 4431,
     "open_issues_count": 70,
-    "forks_count": 642
+    "forks_count": 644
   },
   {
     "full_name": "danielroe/magic-regexp",
-    "stargazers_count": 3054,
+    "stargazers_count": 3060,
     "open_issues_count": 16,
     "forks_count": 41
   },
   {
     "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 15357,
-    "open_issues_count": 212,
-    "forks_count": 1863
+    "stargazers_count": 15425,
+    "open_issues_count": 192,
+    "forks_count": 1875
   },
   {
     "full_name": "cpp-best-practices/cppbestpractices",
-    "stargazers_count": 6866,
+    "stargazers_count": 6877,
     "open_issues_count": 27,
-    "forks_count": 788
+    "forks_count": 790
   },
   {
     "full_name": "iggredible/Learn-Vim",
-    "stargazers_count": 11100,
-    "open_issues_count": 9,
-    "forks_count": 947
+    "stargazers_count": 11126,
+    "open_issues_count": 8,
+    "forks_count": 946
   },
   {
     "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 15805,
+    "stargazers_count": 15830,
     "open_issues_count": 7,
-    "forks_count": 1792
+    "forks_count": 1794
   },
   {
     "full_name": "solidjs/solid-router",
-    "stargazers_count": 755,
-    "open_issues_count": 30,
+    "stargazers_count": 760,
+    "open_issues_count": 29,
     "forks_count": 83
   },
   {
     "full_name": "martinothamar/Mediator",
-    "stargazers_count": 1258,
+    "stargazers_count": 1268,
     "open_issues_count": 19,
-    "forks_count": 40
+    "forks_count": 41
   },
   {
     "full_name": "atusy/tsnode-marker.nvim",
@@ -157,26 +169,14 @@
   },
   {
     "full_name": "startup-nvim/startup.nvim",
-    "stargazers_count": 246,
+    "stargazers_count": 250,
     "open_issues_count": 5,
-    "forks_count": 19
+    "forks_count": 20
   },
   {
     "full_name": "kevinhwang91/nvim-bqf",
-    "stargazers_count": 1062,
+    "stargazers_count": 1065,
     "open_issues_count": 9,
     "forks_count": 14
-  },
-  {
-    "full_name": "enaqx/awesome-react",
-    "stargazers_count": 54441,
-    "open_issues_count": 159,
-    "forks_count": 6637
-  },
-  {
-    "full_name": "srwi/EverythingToolbar",
-    "stargazers_count": 5821,
-    "open_issues_count": 25,
-    "forks_count": 303
   }
 ]

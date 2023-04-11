@@ -1,5 +1,41 @@
 [
   {
+    "full_name": "jinzhongjia/LspUI.nvim",
+    "stargazers_count": 58,
+    "open_issues_count": 0,
+    "forks_count": 2
+  },
+  {
+    "full_name": "Eptagone/Vite.AspNetCore",
+    "stargazers_count": 9,
+    "open_issues_count": 2,
+    "forks_count": 1
+  },
+  {
+    "full_name": "goose-language/goose",
+    "stargazers_count": 3,
+    "open_issues_count": 0,
+    "forks_count": 0
+  },
+  {
+    "full_name": "unocss/unocss",
+    "stargazers_count": 10536,
+    "open_issues_count": 75,
+    "forks_count": 473
+  },
+  {
+    "full_name": "Avanade/Beef",
+    "stargazers_count": 115,
+    "open_issues_count": 5,
+    "forks_count": 37
+  },
+  {
+    "full_name": "shadcn/ui",
+    "stargazers_count": 10983,
+    "open_issues_count": 74,
+    "forks_count": 382
+  },
+  {
     "full_name": "mchiz/active-campaign-net-client",
     "stargazers_count": 1,
     "open_issues_count": 0,
@@ -31,9 +67,9 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 23415,
-    "open_issues_count": 152,
-    "forks_count": 2357
+    "stargazers_count": 26935,
+    "open_issues_count": 176,
+    "forks_count": 2803
   },
   {
     "full_name": "ledonvert/library",
@@ -49,75 +85,75 @@
   },
   {
     "full_name": "davedawkins/Sutil",
-    "stargazers_count": 249,
+    "stargazers_count": 250,
     "open_issues_count": 15,
     "forks_count": 15
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 257,
-    "open_issues_count": 15,
-    "forks_count": 41
+    "stargazers_count": 261,
+    "open_issues_count": 17,
+    "forks_count": 44
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 9886,
-    "open_issues_count": 37,
-    "forks_count": 495
+    "stargazers_count": 9933,
+    "open_issues_count": 35,
+    "forks_count": 497
   },
   {
     "full_name": "design-patterns-for-humans/design-patterns-for-humans-cs",
-    "stargazers_count": 78,
+    "stargazers_count": 79,
     "open_issues_count": 1,
     "forks_count": 21
   },
   {
     "full_name": "google-research/google-research",
-    "stargazers_count": 28263,
-    "open_issues_count": 967,
-    "forks_count": 7027
+    "stargazers_count": 28342,
+    "open_issues_count": 968,
+    "forks_count": 7048
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 26261,
-    "open_issues_count": 101,
-    "forks_count": 1031
+    "stargazers_count": 26309,
+    "open_issues_count": 87,
+    "forks_count": 1040
   },
   {
     "full_name": "microsoft/visual-chatgpt",
-    "stargazers_count": 29521,
-    "open_issues_count": 168,
-    "forks_count": 2690
+    "stargazers_count": 30317,
+    "open_issues_count": 173,
+    "forks_count": 2783
   },
   {
     "full_name": "yuvalsuede/ai-component-generator",
-    "stargazers_count": 1080,
+    "stargazers_count": 1091,
     "open_issues_count": 10,
-    "forks_count": 104
+    "forks_count": 105
   },
   {
     "full_name": "Elfocrash/.NET-Backend-Developer-Roadmap",
-    "stargazers_count": 4864,
+    "stargazers_count": 4906,
     "open_issues_count": 1,
-    "forks_count": 394
+    "forks_count": 398
   },
   {
     "full_name": "trpc/trpc",
-    "stargazers_count": 23907,
-    "open_issues_count": 111,
-    "forks_count": 821
+    "stargazers_count": 24069,
+    "open_issues_count": 116,
+    "forks_count": 825
   },
   {
     "full_name": "flecs-hub/flecs-cs",
-    "stargazers_count": 39,
+    "stargazers_count": 40,
     "open_issues_count": 7,
     "forks_count": 8
   },
   {
     "full_name": "saadeghi/daisyui",
-    "stargazers_count": 19552,
+    "stargazers_count": 19642,
     "open_issues_count": 90,
-    "forks_count": 774
+    "forks_count": 784
   },
   {
     "full_name": "floriankyn/MindToy-Discord-Bot",
@@ -139,44 +175,8 @@
   },
   {
     "full_name": "AmbientRun/Ambient",
-    "stargazers_count": 2898,
-    "open_issues_count": 87,
+    "stargazers_count": 2921,
+    "open_issues_count": 90,
     "forks_count": 92
-  },
-  {
-    "full_name": "mob-sakai/UIEffect",
-    "stargazers_count": 4454,
-    "open_issues_count": 70,
-    "forks_count": 645
-  },
-  {
-    "full_name": "danielroe/magic-regexp",
-    "stargazers_count": 3083,
-    "open_issues_count": 20,
-    "forks_count": 41
-  },
-  {
-    "full_name": "nextauthjs/next-auth",
-    "stargazers_count": 15627,
-    "open_issues_count": 205,
-    "forks_count": 1902
-  },
-  {
-    "full_name": "cpp-best-practices/cppbestpractices",
-    "stargazers_count": 6900,
-    "open_issues_count": 27,
-    "forks_count": 789
-  },
-  {
-    "full_name": "iggredible/Learn-Vim",
-    "stargazers_count": 11208,
-    "open_issues_count": 9,
-    "forks_count": 947
-  },
-  {
-    "full_name": "AnthonyCalandra/modern-cpp-features",
-    "stargazers_count": 15897,
-    "open_issues_count": 7,
-    "forks_count": 1796
   }
 ]

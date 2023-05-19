@@ -1,45 +1,45 @@
 [
   {
     "full_name": "discordx-ts/discordx",
-    "stargazers_count": 466,
+    "stargazers_count": 468,
     "open_issues_count": 0,
-    "forks_count": 45
+    "forks_count": 46
   },
   {
     "full_name": "openai/shap-e",
-    "stargazers_count": 8159,
-    "open_issues_count": 49,
-    "forks_count": 516
+    "stargazers_count": 8692,
+    "open_issues_count": 54,
+    "forks_count": 564
   },
   {
     "full_name": "chakra-ui/ark",
-    "stargazers_count": 984,
-    "open_issues_count": 28,
+    "stargazers_count": 1121,
+    "open_issues_count": 25,
     "forks_count": 10
   },
   {
     "full_name": "basementstudio/scrollytelling",
-    "stargazers_count": 337,
+    "stargazers_count": 369,
     "open_issues_count": 0,
-    "forks_count": 8
+    "forks_count": 10
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 10730,
-    "open_issues_count": 15,
-    "forks_count": 68
+    "stargazers_count": 10805,
+    "open_issues_count": 16,
+    "forks_count": 67
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
-    "stargazers_count": 7556,
-    "open_issues_count": 13,
-    "forks_count": 572
+    "stargazers_count": 7834,
+    "open_issues_count": 16,
+    "forks_count": 594
   },
   {
     "full_name": "FerretDB/FerretDB",
-    "stargazers_count": 6827,
-    "open_issues_count": 412,
-    "forks_count": 257
+    "stargazers_count": 6874,
+    "open_issues_count": 413,
+    "forks_count": 259
   },
   {
     "full_name": "jinzhongjia/LspUI.nvim",
@@ -49,9 +49,9 @@
   },
   {
     "full_name": "Eptagone/Vite.AspNetCore",
-    "stargazers_count": 48,
+    "stargazers_count": 49,
     "open_issues_count": 2,
-    "forks_count": 5
+    "forks_count": 6
   },
   {
     "full_name": "goose-language/goose",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 11528,
-    "open_issues_count": 83,
-    "forks_count": 526
+    "stargazers_count": 11571,
+    "open_issues_count": 78,
+    "forks_count": 530
   },
   {
     "full_name": "Avanade/Beef",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 15575,
-    "open_issues_count": 182,
-    "forks_count": 623
+    "stargazers_count": 15812,
+    "open_issues_count": 185,
+    "forks_count": 640
   },
   {
     "full_name": "mchiz/active-campaign-net-client",
@@ -84,7 +84,7 @@
     "forks_count": 0
   },
   {
-    "full_name": "TalentHubProject/my-fabulous-creatures-api",
+    "full_name": "TalentHubProject/talent-hub-discord-api",
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
@@ -109,9 +109,9 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 40715,
-    "open_issues_count": 326,
-    "forks_count": 4277
+    "stargazers_count": 41653,
+    "open_issues_count": 234,
+    "forks_count": 4382
   },
   {
     "full_name": "ledonvert/library",
@@ -133,15 +133,15 @@
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 280,
+    "stargazers_count": 283,
     "open_issues_count": 13,
     "forks_count": 48
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 10362,
-    "open_issues_count": 37,
-    "forks_count": 525
+    "stargazers_count": 10385,
+    "open_issues_count": 34,
+    "forks_count": 530
   },
   {
     "full_name": "design-patterns-for-humans/design-patterns-for-humans-cs",
@@ -151,32 +151,32 @@
   },
   {
     "full_name": "google-research/google-research",
-    "stargazers_count": 29241,
+    "stargazers_count": 29288,
     "open_issues_count": 997,
-    "forks_count": 7212
+    "forks_count": 7219
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 26696,
-    "open_issues_count": 93,
-    "forks_count": 1060
+    "stargazers_count": 26726,
+    "open_issues_count": 88,
+    "forks_count": 1061
   },
   {
     "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 32715,
+    "stargazers_count": 32793,
     "open_issues_count": 208,
-    "forks_count": 3124
+    "forks_count": 3139
   },
   {
     "full_name": "yuvalsuede/ai-component-generator",
-    "stargazers_count": 1154,
+    "stargazers_count": 1157,
     "open_issues_count": 13,
     "forks_count": 112
   },
   {
     "full_name": "Elfocrash/.NET-Backend-Developer-Roadmap",
-    "stargazers_count": 5146,
+    "stargazers_count": 5164,
     "open_issues_count": 1,
-    "forks_count": 414
+    "forks_count": 415
   }
 ]

@@ -13,45 +13,45 @@
   },
   {
     "full_name": "discordx-ts/discordx",
-    "stargazers_count": 486,
+    "stargazers_count": 488,
     "open_issues_count": 0,
     "forks_count": 47
   },
   {
     "full_name": "openai/shap-e",
-    "stargazers_count": 9898,
+    "stargazers_count": 9939,
     "open_issues_count": 71,
-    "forks_count": 701
+    "forks_count": 708
   },
   {
     "full_name": "chakra-ui/ark",
-    "stargazers_count": 1460,
-    "open_issues_count": 23,
+    "stargazers_count": 1481,
+    "open_issues_count": 28,
     "forks_count": 27
   },
   {
     "full_name": "basementstudio/scrollytelling",
-    "stargazers_count": 556,
+    "stargazers_count": 558,
     "open_issues_count": 5,
     "forks_count": 13
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11255,
+    "stargazers_count": 11268,
     "open_issues_count": 17,
-    "forks_count": 70
+    "forks_count": 71
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
-    "stargazers_count": 8378,
+    "stargazers_count": 8402,
     "open_issues_count": 11,
-    "forks_count": 666
+    "forks_count": 670
   },
   {
     "full_name": "FerretDB/FerretDB",
-    "stargazers_count": 7059,
-    "open_issues_count": 459,
-    "forks_count": 278
+    "stargazers_count": 7334,
+    "open_issues_count": 462,
+    "forks_count": 281
   },
   {
     "full_name": "jinzhongjia/LspUI.nvim",
@@ -61,9 +61,9 @@
   },
   {
     "full_name": "Eptagone/Vite.AspNetCore",
-    "stargazers_count": 75,
+    "stargazers_count": 77,
     "open_issues_count": 4,
-    "forks_count": 9
+    "forks_count": 10
   },
   {
     "full_name": "goose-language/goose",
@@ -73,9 +73,9 @@
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 12291,
-    "open_issues_count": 102,
-    "forks_count": 578
+    "stargazers_count": 12367,
+    "open_issues_count": 105,
+    "forks_count": 581
   },
   {
     "full_name": "Avanade/Beef",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 23214,
-    "open_issues_count": 426,
-    "forks_count": 1062
+    "stargazers_count": 23583,
+    "open_issues_count": 436,
+    "forks_count": 1083
   },
   {
     "full_name": "mchiz/active-campaign-net-client",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 48237,
-    "open_issues_count": 418,
-    "forks_count": 5236
+    "stargazers_count": 48452,
+    "open_issues_count": 421,
+    "forks_count": 5277
   },
   {
     "full_name": "ledonvert/library",
@@ -139,44 +139,44 @@
   },
   {
     "full_name": "davedawkins/Sutil",
-    "stargazers_count": 257,
+    "stargazers_count": 258,
     "open_issues_count": 16,
     "forks_count": 15
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 323,
-    "open_issues_count": 13,
+    "stargazers_count": 324,
+    "open_issues_count": 15,
     "forks_count": 60
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 10884,
-    "open_issues_count": 66,
-    "forks_count": 581
+    "stargazers_count": 10907,
+    "open_issues_count": 49,
+    "forks_count": 584
   },
   {
     "full_name": "design-patterns-for-humans/design-patterns-for-humans-cs",
     "stargazers_count": 87,
     "open_issues_count": 1,
-    "forks_count": 22
+    "forks_count": 23
   },
   {
     "full_name": "google-research/google-research",
-    "stargazers_count": 30109,
-    "open_issues_count": 1028,
-    "forks_count": 7430
+    "stargazers_count": 30138,
+    "open_issues_count": 1060,
+    "forks_count": 7446
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 27180,
-    "open_issues_count": 73,
+    "stargazers_count": 27205,
+    "open_issues_count": 74,
     "forks_count": 1088
   },
   {
     "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 33507,
+    "stargazers_count": 33565,
     "open_issues_count": 224,
-    "forks_count": 3244
+    "forks_count": 3254
   }
 ]

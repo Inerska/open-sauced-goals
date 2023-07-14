@@ -7,75 +7,75 @@
   },
   {
     "full_name": "NaolShow/Filen.NET",
-    "stargazers_count": 1,
+    "stargazers_count": 2,
     "open_issues_count": 0,
     "forks_count": 0
   },
   {
     "full_name": "discordx-ts/discordx",
-    "stargazers_count": 490,
+    "stargazers_count": 491,
     "open_issues_count": 0,
     "forks_count": 47
   },
   {
     "full_name": "openai/shap-e",
-    "stargazers_count": 9986,
-    "open_issues_count": 71,
-    "forks_count": 713
+    "stargazers_count": 10015,
+    "open_issues_count": 70,
+    "forks_count": 716
   },
   {
     "full_name": "chakra-ui/ark",
-    "stargazers_count": 1496,
-    "open_issues_count": 30,
-    "forks_count": 27
+    "stargazers_count": 1555,
+    "open_issues_count": 28,
+    "forks_count": 29
   },
   {
     "full_name": "basementstudio/scrollytelling",
-    "stargazers_count": 561,
-    "open_issues_count": 5,
-    "forks_count": 13
+    "stargazers_count": 566,
+    "open_issues_count": 6,
+    "forks_count": 12
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11299,
+    "stargazers_count": 11324,
     "open_issues_count": 17,
     "forks_count": 71
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
-    "stargazers_count": 8421,
+    "stargazers_count": 8452,
     "open_issues_count": 12,
-    "forks_count": 677
+    "forks_count": 679
   },
   {
     "full_name": "FerretDB/FerretDB",
-    "stargazers_count": 7399,
-    "open_issues_count": 466,
-    "forks_count": 283
+    "stargazers_count": 7424,
+    "open_issues_count": 463,
+    "forks_count": 284
   },
   {
     "full_name": "jinzhongjia/LspUI.nvim",
-    "stargazers_count": 85,
+    "stargazers_count": 88,
     "open_issues_count": 0,
-    "forks_count": 2
+    "forks_count": 3
   },
   {
     "full_name": "Eptagone/Vite.AspNetCore",
-    "stargazers_count": 80,
-    "open_issues_count": 3,
+    "stargazers_count": 81,
+    "open_issues_count": 4,
     "forks_count": 11
   },
   {
     "full_name": "goose-language/goose",
-    "stargazers_count": 5,
+    "stargazers_count": 6,
     "open_issues_count": 1,
     "forks_count": 0
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 12412,
-    "open_issues_count": 101,
-    "forks_count": 582
+    "stargazers_count": 12446,
+    "open_issues_count": 104,
+    "forks_count": 587
   },
   {
     "full_name": "Avanade/Beef",
@@ -85,9 +85,9 @@
   },
   {
     "full_name": "shadcn/ui",
-    "stargazers_count": 23949,
-    "open_issues_count": 446,
-    "forks_count": 1108
+    "stargazers_count": 24273,
+    "open_issues_count": 464,
+    "forks_count": 1140
   },
   {
     "full_name": "mchiz/active-campaign-net-client",
@@ -121,9 +121,9 @@
   },
   {
     "full_name": "nomic-ai/gpt4all",
-    "stargazers_count": 48717,
-    "open_issues_count": 430,
-    "forks_count": 5316
+    "stargazers_count": 48966,
+    "open_issues_count": 434,
+    "forks_count": 5356
   },
   {
     "full_name": "ledonvert/library",
@@ -139,21 +139,21 @@
   },
   {
     "full_name": "davedawkins/Sutil",
-    "stargazers_count": 258,
+    "stargazers_count": 261,
     "open_issues_count": 16,
     "forks_count": 15
   },
   {
     "full_name": "pta2002/nixvim",
-    "stargazers_count": 327,
-    "open_issues_count": 13,
+    "stargazers_count": 329,
+    "open_issues_count": 12,
     "forks_count": 60
   },
   {
     "full_name": "payloadcms/payload",
-    "stargazers_count": 10936,
-    "open_issues_count": 49,
-    "forks_count": 586
+    "stargazers_count": 10956,
+    "open_issues_count": 52,
+    "forks_count": 592
   },
   {
     "full_name": "design-patterns-for-humans/design-patterns-for-humans-cs",
@@ -163,20 +163,20 @@
   },
   {
     "full_name": "google-research/google-research",
-    "stargazers_count": 30177,
-    "open_issues_count": 1068,
-    "forks_count": 7452
+    "stargazers_count": 30205,
+    "open_issues_count": 1070,
+    "forks_count": 7458
   },
   {
     "full_name": "vercel/swr",
-    "stargazers_count": 27241,
-    "open_issues_count": 74,
-    "forks_count": 1091
+    "stargazers_count": 27281,
+    "open_issues_count": 76,
+    "forks_count": 1093
   },
   {
     "full_name": "microsoft/TaskMatrix",
-    "stargazers_count": 33614,
-    "open_issues_count": 224,
-    "forks_count": 3254
+    "stargazers_count": 33670,
+    "open_issues_count": 226,
+    "forks_count": 3261
   }
 ]

@@ -1,9 +1,15 @@
 [
   {
+    "full_name": "usebruno/bruno",
+    "stargazers_count": 4903,
+    "open_issues_count": 202,
+    "forks_count": 150
+  },
+  {
     "full_name": "caddyserver/caddy",
-    "stargazers_count": 50001,
-    "open_issues_count": 145,
-    "forks_count": 3819
+    "stargazers_count": 50058,
+    "open_issues_count": 149,
+    "forks_count": 3825
   },
   {
     "full_name": "harness/drone-cli",
@@ -13,51 +19,51 @@
   },
   {
     "full_name": "tsedio/tsed",
-    "stargazers_count": 2612,
+    "stargazers_count": 2613,
     "open_issues_count": 41,
     "forks_count": 272
   },
   {
     "full_name": "harness/gitness",
-    "stargazers_count": 29456,
-    "open_issues_count": 125,
-    "forks_count": 2718
+    "stargazers_count": 29551,
+    "open_issues_count": 126,
+    "forks_count": 2722
   },
   {
     "full_name": "oven-sh/bun",
-    "stargazers_count": 63759,
-    "open_issues_count": 1980,
-    "forks_count": 1903
+    "stargazers_count": 64026,
+    "open_issues_count": 2004,
+    "forks_count": 1919
   },
   {
     "full_name": "nicolas-hbt/pygraft",
-    "stargazers_count": 507,
+    "stargazers_count": 511,
     "open_issues_count": 0,
     "forks_count": 34
   },
   {
     "full_name": "sujjeee/linknode",
-    "stargazers_count": 146,
+    "stargazers_count": 145,
     "open_issues_count": 0,
     "forks_count": 12
   },
   {
     "full_name": "withastro/starlight",
-    "stargazers_count": 2071,
-    "open_issues_count": 71,
-    "forks_count": 191
+    "stargazers_count": 2083,
+    "open_issues_count": 74,
+    "forks_count": 198
   },
   {
     "full_name": "nicoalbanese/kirimase",
-    "stargazers_count": 485,
+    "stargazers_count": 491,
     "open_issues_count": 25,
     "forks_count": 18
   },
   {
     "full_name": "HaxeFlixel/flixel",
-    "stargazers_count": 1829,
-    "open_issues_count": 174,
-    "forks_count": 406
+    "stargazers_count": 1831,
+    "open_issues_count": 177,
+    "forks_count": 407
   },
   {
     "full_name": "IDI-Systems/UnrealImGui",
@@ -67,13 +73,13 @@
   },
   {
     "full_name": "fabian-hiller/valibot",
-    "stargazers_count": 3678,
-    "open_issues_count": 52,
-    "forks_count": 80
+    "stargazers_count": 3737,
+    "open_issues_count": 53,
+    "forks_count": 84
   },
   {
     "full_name": "arshad-yaseen/markdx",
-    "stargazers_count": 343,
+    "stargazers_count": 345,
     "open_issues_count": 0,
     "forks_count": 24
   },
@@ -91,50 +97,50 @@
   },
   {
     "full_name": "openai/shap-e",
-    "stargazers_count": 10444,
+    "stargazers_count": 10457,
     "open_issues_count": 75,
-    "forks_count": 785
+    "forks_count": 788
   },
   {
     "full_name": "chakra-ui/ark",
-    "stargazers_count": 1926,
-    "open_issues_count": 19,
+    "stargazers_count": 1936,
+    "open_issues_count": 21,
     "forks_count": 40
   },
   {
     "full_name": "basementstudio/scrollytelling",
-    "stargazers_count": 670,
+    "stargazers_count": 671,
     "open_issues_count": 10,
     "forks_count": 19
   },
   {
     "full_name": "yoavbls/pretty-ts-errors",
-    "stargazers_count": 11657,
-    "open_issues_count": 11,
+    "stargazers_count": 11667,
+    "open_issues_count": 12,
     "forks_count": 76
   },
   {
     "full_name": "facebookresearch/AnimatedDrawings",
-    "stargazers_count": 9526,
-    "open_issues_count": 10,
+    "stargazers_count": 9550,
+    "open_issues_count": 9,
     "forks_count": 775
   },
   {
     "full_name": "FerretDB/FerretDB",
-    "stargazers_count": 7712,
-    "open_issues_count": 504,
-    "forks_count": 317
+    "stargazers_count": 7736,
+    "open_issues_count": 507,
+    "forks_count": 320
   },
   {
     "full_name": "jinzhongjia/LspUI.nvim",
     "stargazers_count": 113,
-    "open_issues_count": 3,
+    "open_issues_count": 2,
     "forks_count": 4
   },
   {
     "full_name": "Eptagone/Vite.AspNetCore",
-    "stargazers_count": 113,
-    "open_issues_count": 8,
+    "stargazers_count": 114,
+    "open_issues_count": 6,
     "forks_count": 17
   },
   {
@@ -145,9 +151,9 @@
   },
   {
     "full_name": "unocss/unocss",
-    "stargazers_count": 13568,
+    "stargazers_count": 13606,
     "open_issues_count": 112,
-    "forks_count": 651
+    "forks_count": 653
   },
   {
     "full_name": "Avanade/Beef",
@@ -157,9 +163,9 @@
   },
   {
     "full_name": "shadcn-ui/ui",
-    "stargazers_count": 32682,
-    "open_issues_count": 787,
-    "forks_count": 1617
+    "stargazers_count": 32922,
+    "open_issues_count": 801,
+    "forks_count": 1628
   },
   {
     "full_name": "mchiz/active-campaign-net-client",
@@ -172,11 +178,5 @@
     "stargazers_count": 3,
     "open_issues_count": 0,
     "forks_count": 0
-  },
-  {
-    "full_name": "TalentHubProject/aleks-bot",
-    "stargazers_count": 8,
-    "open_issues_count": 0,
-    "forks_count": 1
   }
 ]

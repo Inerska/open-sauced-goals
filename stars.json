@@ -1,19 +1,19 @@
 [
   {
     "full_name": "siglens/siglens",
-    "stargazers_count": 1186,
-    "open_issues_count": 114,
+    "stargazers_count": 1190,
+    "open_issues_count": 119,
     "forks_count": 197
   },
   {
     "full_name": "LukeMathWalker/pavex",
-    "stargazers_count": 1702,
+    "stargazers_count": 1703,
     "open_issues_count": 6,
     "forks_count": 55
   },
   {
     "full_name": "plume-lang/plume",
-    "stargazers_count": 9,
+    "stargazers_count": 10,
     "open_issues_count": 6,
     "forks_count": 2
   },
@@ -25,27 +25,27 @@
   },
   {
     "full_name": "gitbutlerapp/gitbutler",
-    "stargazers_count": 12239,
-    "open_issues_count": 256,
-    "forks_count": 474
+    "stargazers_count": 12251,
+    "open_issues_count": 262,
+    "forks_count": 478
   },
   {
     "full_name": "lukeed/clsx",
-    "stargazers_count": 8021,
+    "stargazers_count": 8038,
     "open_issues_count": 11,
-    "forks_count": 142
+    "forks_count": 141
   },
   {
     "full_name": "zed-industries/zed",
-    "stargazers_count": 45530,
-    "open_issues_count": 2845,
-    "forks_count": 2495
+    "stargazers_count": 45861,
+    "open_issues_count": 2829,
+    "forks_count": 2539
   },
   {
     "full_name": "dotnet/reactive",
-    "stargazers_count": 6640,
-    "open_issues_count": 171,
-    "forks_count": 745
+    "stargazers_count": 6648,
+    "open_issues_count": 169,
+    "forks_count": 746
   },
   {
     "full_name": "floriankyn/MindToy-Discord-Bot",
@@ -55,128 +55,128 @@
   },
   {
     "full_name": "microsoft/reverse-proxy",
-    "stargazers_count": 8392,
-    "open_issues_count": 166,
+    "stargazers_count": 8404,
+    "open_issues_count": 165,
     "forks_count": 825
   },
   {
     "full_name": "asc-lab/dotnetcore-microservices-poc",
-    "stargazers_count": 1881,
+    "stargazers_count": 1883,
     "open_issues_count": 5,
     "forks_count": 678
   },
   {
     "full_name": "charmbracelet/bubbletea",
-    "stargazers_count": 26244,
-    "open_issues_count": 110,
-    "forks_count": 758
+    "stargazers_count": 26333,
+    "open_issues_count": 113,
+    "forks_count": 759
   },
   {
     "full_name": "expo/expo",
-    "stargazers_count": 32284,
-    "open_issues_count": 661,
-    "forks_count": 5115
+    "stargazers_count": 32376,
+    "open_issues_count": 662,
+    "forks_count": 5137
   },
   {
     "full_name": "sst/sst",
-    "stargazers_count": 21306,
-    "open_issues_count": 833,
+    "stargazers_count": 21318,
+    "open_issues_count": 836,
     "forks_count": 1626
   },
   {
     "full_name": "joeferner/redis-commander",
-    "stargazers_count": 3577,
+    "stargazers_count": 3582,
     "open_issues_count": 54,
-    "forks_count": 462
+    "forks_count": 463
   },
   {
     "full_name": "nuxt/nuxt",
-    "stargazers_count": 53831,
-    "open_issues_count": 828,
-    "forks_count": 4925
+    "stargazers_count": 53872,
+    "open_issues_count": 831,
+    "forks_count": 4932
   },
   {
     "full_name": "abi/screenshot-to-code",
-    "stargazers_count": 55773,
+    "stargazers_count": 55837,
     "open_issues_count": 65,
-    "forks_count": 6815
+    "forks_count": 6827
   },
   {
     "full_name": "biomejs/biome",
-    "stargazers_count": 13621,
-    "open_issues_count": 174,
-    "forks_count": 415
+    "stargazers_count": 13713,
+    "open_issues_count": 154,
+    "forks_count": 417
   },
   {
     "full_name": "dotnet/aspire-samples",
-    "stargazers_count": 606,
-    "open_issues_count": 83,
-    "forks_count": 172
+    "stargazers_count": 609,
+    "open_issues_count": 86,
+    "forks_count": 174
   },
   {
     "full_name": "dotnet/aspire",
-    "stargazers_count": 3567,
-    "open_issues_count": 812,
-    "forks_count": 390
+    "stargazers_count": 3576,
+    "open_issues_count": 817,
+    "forks_count": 392
   },
   {
     "full_name": "dragonflydb/dragonfly",
-    "stargazers_count": 25114,
-    "open_issues_count": 149,
-    "forks_count": 903
+    "stargazers_count": 25159,
+    "open_issues_count": 150,
+    "forks_count": 907
   },
   {
     "full_name": "analogjs/analog",
-    "stargazers_count": 2482,
-    "open_issues_count": 42,
+    "stargazers_count": 2484,
+    "open_issues_count": 34,
     "forks_count": 234
   },
   {
     "full_name": "JasperFx/wolverine",
-    "stargazers_count": 1201,
-    "open_issues_count": 72,
+    "stargazers_count": 1203,
+    "open_issues_count": 73,
     "forks_count": 131
   },
   {
     "full_name": "oskardudycz/EventSourcing.NetCore",
     "stargazers_count": 3349,
-    "open_issues_count": 21,
+    "open_issues_count": 22,
     "forks_count": 510
   },
   {
     "full_name": "angular/angular",
-    "stargazers_count": 95592,
-    "open_issues_count": 1628,
-    "forks_count": 25149
+    "stargazers_count": 95600,
+    "open_issues_count": 1617,
+    "forks_count": 25159
   },
   {
     "full_name": "nicolargo/glances",
-    "stargazers_count": 26146,
-    "open_issues_count": 194,
-    "forks_count": 1485
+    "stargazers_count": 26171,
+    "open_issues_count": 195,
+    "forks_count": 1487
   },
   {
     "full_name": "quarkusio/quarkus",
-    "stargazers_count": 13495,
-    "open_issues_count": 2747,
-    "forks_count": 2597
+    "stargazers_count": 13507,
+    "open_issues_count": 2736,
+    "forks_count": 2598
   },
   {
     "full_name": "react-hook-form/react-hook-form",
-    "stargazers_count": 40892,
-    "open_issues_count": 52,
-    "forks_count": 2044
+    "stargazers_count": 40915,
+    "open_issues_count": 58,
+    "forks_count": 2047
   },
   {
     "full_name": "t3dotgg/server-actions-trpc-examples",
-    "stargazers_count": 116,
+    "stargazers_count": 117,
     "open_issues_count": 2,
     "forks_count": 14
   },
   {
     "full_name": "openstatusHQ/openstatus",
-    "stargazers_count": 5931,
-    "open_issues_count": 68,
-    "forks_count": 357
+    "stargazers_count": 5963,
+    "open_issues_count": 67,
+    "forks_count": 367
   }
 ]
